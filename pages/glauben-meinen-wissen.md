@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: my-layout
 title: Glauben, Meinen und Wissen
 ---
 
