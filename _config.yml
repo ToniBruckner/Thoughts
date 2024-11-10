@@ -1,4 +1,6 @@
 markdown: kramdown  # Or any supported markdown processor
 
+title: Test Config - Custom Title
+
 plugins:
   - jekyll-sitemap
