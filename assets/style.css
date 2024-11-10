@@ -1,13 +1,16 @@
 /* Reset some basic styles */
- 
+html {
+	margin-top: 50px;
+	margin-left: 50px;
+  }
+  
   body {
+	margin: 0; /* Remove default body margin to avoid adding extra margin */
+	padding: 20px;
 	font-family: Arial, sans-serif;
 	line-height: 1.6;
 	color: #333;
 	background-color: #f4f4f9;
-	padding: 20px;
-	margin-left: 50px;
-  	margin-top: 50px;
   }
   
   /* Header styling */
@@ -50,7 +53,7 @@
   
   /* Links styling */
   a {
-	color: #171b1d;
+	color: #a20210;
 	text-decoration: none;
   }
   
