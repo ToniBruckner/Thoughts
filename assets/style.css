@@ -11,6 +11,8 @@
 	color: #333;
 	background-color: #f4f4f9;
 	padding: 20px;
+	margin-left: 50px;
+  	margin-top: 50px;
   }
   
   /* Header styling */
@@ -53,7 +55,7 @@
   
   /* Links styling */
   a {
-	color: #007acc;
+	color: #1a2730;
 	text-decoration: none;
   }
   
