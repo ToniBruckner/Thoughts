@@ -1,5 +1,5 @@
 ---
-layout: my-layout
+layout: default
 title: Selbstwirksamkeit
 ---
 
