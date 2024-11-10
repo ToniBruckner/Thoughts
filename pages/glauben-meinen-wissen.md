@@ -1,7 +1,6 @@
 ---
 layout: default
 title: Glauben, Meinen und Wissen
-permalink: /glauben-meinen-wissen/
 ---
 
 ## Glauben, Meinen und Wissen
