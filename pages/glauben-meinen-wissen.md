@@ -5,4 +5,4 @@ title: Glauben, Meinen und Wissen
 
 ## Glauben, Meinen und Wissen
 
-![Glauben, Meinen und Wissen](/_pages/img/glauben-wissen-meinen.jpg)
+![Glauben, Meinen und Wissen](/pages/img/glauben-wissen-meinen.jpg)

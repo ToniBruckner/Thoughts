@@ -1,1 +1,4 @@
 markdown: kramdown  # Or any supported markdown processor
+
+plugins:
+  - jekyll-sitemap
