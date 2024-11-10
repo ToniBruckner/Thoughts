@@ -6,6 +6,18 @@
   <title>{{ page.title | default: site.title }}</title>
   <meta name="description" content="{{ page.description | default: site.description }}">
   <link rel="stylesheet" href="{{ 'assets/css/my-style.css' | relative_url }}">
+  <style>
+    @font-face {
+      font-family: 'SpecialElite';
+      src: url('{{ "/assets/fonts/SpecialElite-Regular.ttf" | relative_url }}') format('truetype');
+      font-weight: normal;
+      font-style: normal;
+    }
+  
+    body {
+      font-family: 'SpecialElite', Arial, sans-serif;
+    }
+  </style>
 </head>
 <body>
 
