@@ -8,7 +8,10 @@
   font-weight: normal;
   font-style: normal;
 }
-.markmap { font-family: "SpecialElite", sans-serif; }
+.markmap {
+  --markmap-font: "SpecialElite", sans-serif; /* Overwrite the markmap font variable */
+  font: var(--markmap-font);
+}
 </style>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
