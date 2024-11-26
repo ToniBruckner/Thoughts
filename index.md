@@ -13,5 +13,5 @@
 - [Fantasy Realisation Therory](./fantasy-realization-therory.md)
 - [GRIT](./grit.md)
 - [Clustern](./clustern.md)
-- 
+
 
