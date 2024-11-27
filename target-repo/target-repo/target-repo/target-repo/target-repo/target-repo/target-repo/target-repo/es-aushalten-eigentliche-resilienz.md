@@ -1,6 +1,4 @@
-# Es aushalten. Eigentliche Resilienz
-
-tbd 
+Es aushalten. Eigentliche Resilienz
 Gedanken für den Tag
 Petra Ramsauer, Journalistin und angehende Psychotherapeutin, über Resilienz
 
