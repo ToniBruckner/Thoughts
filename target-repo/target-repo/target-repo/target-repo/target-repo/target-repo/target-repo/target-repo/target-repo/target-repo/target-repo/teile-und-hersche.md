@@ -1,4 +1,2 @@
 
 ## Teile und Herrsche
-
-tbd
