@@ -1,0 +1,1 @@
+tbd - Über "Sich selbst nicht so ernst nehmen" nachdenken
