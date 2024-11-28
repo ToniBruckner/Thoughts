@@ -16,8 +16,7 @@ Ebenso betont sie die Bedeutung von Vertrauensverhältnissen zu mehreren Bezugsp
 Dies wirft jedoch die Frage auf, ob Offenheit, Neugier und stabile soziale Bindungen tatsächlich die einzigen Grundlagen für Resilienz darstellen.
 Welche weiteren Faktoren können ebenfalls eine Rolle spielen, und wie können Erwachsene Resilienz aktiv entwickeln und stärken? Diese Aspkete könnte man noch genauer untersuchen.(tbd - erörtern)
 
-
----
+![Resilienz](./images/resilience.png)
 
 aus https://oe1.orf.at/player/20241114/778204
 
