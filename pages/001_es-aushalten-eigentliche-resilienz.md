@@ -5,8 +5,6 @@
 
 Resilienz (von lateinisch resilire: zurückspringen, abprallen, nicht anhaften), auch Anpassungsfähigkeit, ist der Prozess, in dem Personen auf Probleme und Veränderungen mit Anpassung ihres Verhaltens reagieren.
 
-![alt text](./images/resilience.png)
-
 ## Damit zu leben, was ist
 
 Im Radiobeitrag (siehe Transkript unten) beleuchtet die Autorin einen weiteren Aspekt von Resilienz: die Fähigkeit die Dinge so anzunehmen wie sie sind - beispielsweise den Prozess des Äterwerdens.
