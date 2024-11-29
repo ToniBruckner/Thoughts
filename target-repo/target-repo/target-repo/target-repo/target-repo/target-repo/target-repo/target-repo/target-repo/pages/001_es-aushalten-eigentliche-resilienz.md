@@ -1,28 +1,14 @@
 # Es aushalten. Eigentliche Resilienz
 
-tbd 
 
-Der Text beschreibt einen differenzierten Ansatz zur Resilienz, der nicht nur auf die Bewältigung extremer Krisen abzielt, sondern auch auf die alltägliche Anpassungsfähigkeit und Akzeptanz von Lebensrealitäten – besonders in Bezug auf den Lebensrhythmus und Übergangsphasen wie Älterwerden oder Unabhängigwerden.
+## Definition Wikipedia
 
-### Wichtige Kernaussagen:
+Resilienz (von lateinisch resilire: zurückspringen, abprallen, nicht anhaften), auch Anpassungsfähigkeit, ist der Prozess, in dem Personen auf Probleme und Veränderungen mit Anpassung ihres Verhaltens reagieren.
 
-1. **Resilienz als Fähigkeit, mit dem zu leben, was ist:**  
-   Resilienz bedeutet nicht nur, sich gegen Stürme des Lebens zu wappnen, sondern eine grundlegende Elastizität in der Einstellung zu entwickeln. Es geht darum, Veränderungen oder Übergänge (z. B. veränderte Lebensgeschwindigkeiten, neue Lebensphasen) anzunehmen, ohne an starren Erwartungen festzuhalten.
+## Damit zu leben, was ist
 
-2. **Die Rolle der Bindung in der Kindheit:**  
-   Emmy Werners Forschung zeigt, dass Resilienz tief in der frühen Kindheit verwurzelt sein kann. Kinder, die trotz schwieriger Umstände Resilienz entwickelten, hatten zwei wichtige Merkmale: 
-   - Offenheit und Neugier gegenüber Herausforderungen.
-   - Vertrauensvolle Beziehungen zu einer oder mehreren Bezugspersonen außerhalb der Familie.
-
-3. **Resilienz als Entwicklungsprozess:**  
-   Resilienz ist keine angeborene Eigenschaft, sondern eine Fähigkeit, die sich über Zeit und Erfahrungen entwickelt. Sie kann durch positive Bindungen und eine flexible Haltung gegenüber Herausforderungen gestärkt werden.
-
-4. **Die Akzeptanz von Veränderung und Lebensrhythmen:**  
-   Resilienz bedeutet auch, sich mit den natürlichen Rhythmen des Lebens auszusöhnen, wie etwa dem Älterwerden oder dem Verlust von Kontrolle in Übergangsphasen. Es erfordert eine innere Haltung, die nicht von Perfektionismus oder starren Erwartungen dominiert wird.
-
-### Fazit:
-Resilienz ist mehr als reine Widerstandskraft gegenüber Krisen. Es ist ein Prozess der Anpassung, der Offenheit und Bindung. Gleichzeitig spielt die Fähigkeit, Veränderungen im Leben zu akzeptieren und sich anzupassen, eine zentrale Rolle. Dies ist nicht nur für einzelne Krisensituationen wichtig, sondern auch für den alltäglichen Umgang mit den Rhythmen des Lebens.
-
+Im Radiobeitrag (siehe Transkript unten) geht die Autorin einen Schritt weiter und sieht Resilienz als die Fähigkeit die Dinge so anzunehmen wie sie sind. 
+Sie merkt an, dass Kinder welche aus Armut kommen gefährdet sind in tbc
 ---
 
 aus https://oe1.orf.at/player/20241114/778204
