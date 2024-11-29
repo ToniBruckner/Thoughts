@@ -1,1 +1,3 @@
 # Selbstwirksamkeit / Self Efficiancy
+
+tbd

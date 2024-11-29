@@ -1,0 +1,14 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+// Add a rule for all a hrefs in the section with the id=main_content have a color of black and are underlined
+#main_content a {
+  color: black;
+  text-decoration: underline;
+}
+
+#project_title a {
+  color: white;
+}
