@@ -18,8 +18,6 @@ Welche weiteren Faktoren können ebenfalls eine Rolle spielen, und wie können E
 
 ![Resilienz](./images/resilience.png)
 
-aus https://oe1.orf.at/player/20241114/778204
-
 `
 Gedanken für den Tag
 Petra Ramsauer, Journalistin und angehende Psychotherapeutin, über Resilienz
@@ -37,4 +35,4 @@ Das Bemerkenswerte dabei: Zwei von drei dieser Kinder zeigten problematisches Ve
 Dies ist somit der zweite zentrale Knackpunkt: Resilienz ist auch eine Funktion aus geglückter Bindung im Kindesalter.
 `
 
-
+[ö1](https://oe1.orf.at/player/20241114/778204), 14.11.24
