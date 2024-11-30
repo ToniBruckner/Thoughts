@@ -18,7 +18,7 @@ Welche weiteren Faktoren können ebenfalls eine Rolle spielen, und wie können E
 
 ![Resilienz](./images/resilience.png)
 
-`
+```
 Gedanken für den Tag
 Petra Ramsauer, Journalistin und angehende Psychotherapeutin, über Resilienz
 
@@ -33,6 +33,8 @@ Die Pionierin der Resilienzforschung, die Entwicklungspsychologin **Emmy Werner*
 Das Bemerkenswerte dabei: Zwei von drei dieser Kinder zeigten problematisches Verhalten, schlitterten später in Kriminalität und Drogenmissbrauch, zeigten psychische Erkrankungen. Doch ein Drittel entwickelte sich zu erfolgreichen Erwachsenen. Als zentralen Schutzfaktor für die seelische Gesundheit zeigte sich dabei, es waren jene, die als Kinder offen und neugierig auf neue Herausforderungen zugingen und jene, die mit einer oder mehreren Personen außerhalb der Familie ein Vertrauensverhältnis aufbauen konnten.
 
 Dies ist somit der zweite zentrale Knackpunkt: Resilienz ist auch eine Funktion aus geglückter Bindung im Kindesalter.
-`
 
-[ö1](https://oe1.orf.at/player/20241114/778204), 14.11.24
+[Ö1](https://oe1.orf.at/player/20241114/778204), 14.11.24
+```
+
+
