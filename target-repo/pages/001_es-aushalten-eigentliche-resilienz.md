@@ -1,10 +1,5 @@
 # Es aushalten. Eigentliche Resilienz
 
-
-## Definition Wikipedia
-
-Resilienz (von lateinisch resilire: zurückspringen, abprallen, nicht anhaften), auch Anpassungsfähigkeit, ist der Prozess, in dem Personen auf Probleme und Veränderungen mit Anpassung ihres Verhaltens reagieren.
-
 ## Damit zu leben, was ist
 
 Im Radiobeitrag (siehe Transkript unten) beleuchtet die Autorin einen weiteren Aspekt von Resilienz: die Fähigkeit die Dinge so anzunehmen wie sie sind - beispielsweise den Prozess des Äterwerdens.
@@ -37,3 +32,7 @@ Das Bemerkenswerte dabei: Zwei von drei dieser Kinder zeigten problematisches Ve
 Dies ist somit der zweite zentrale Knackpunkt: Resilienz ist auch eine Funktion aus geglückter Bindung im Kindesalter.
 
 [Ö1](https://oe1.orf.at/player/20241114/778204), 14.11.24
+
+## Definition Wikipedia
+
+Resilienz (von lateinisch resilire: zurückspringen, abprallen, nicht anhaften), auch Anpassungsfähigkeit, ist der Prozess, in dem Personen auf Probleme und Veränderungen mit Anpassung ihres Verhaltens reagieren.

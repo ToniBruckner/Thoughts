@@ -18,11 +18,13 @@ Welche weiteren Faktoren können ebenfalls eine Rolle spielen, und wie können E
 
 ![Resilienz](./images/resilience.png)
 
-```
-Gedanken für den Tag
-Petra Ramsauer, Journalistin und angehende Psychotherapeutin, über Resilienz
+## Transkript Raidobeitrag
 
-Gestaltung: Alexandra Mantler
+### Gedanken für den Tag
+
+**Petra Ramsauer, Journalistin und angehende Psychotherapeutin, über Resilienz**
+
+**Gestaltung: Alexandra Mantler**
 
 „Wahre Resilienz ist die Fähigkeit damit zu leben, was ist“. Dieser Satz der australischen Autorin Natasha Sholl trifft einen zentralen Punkt. Nicht immer geht es bei dieser Widerstandsfähigkeit darum, einmalige elementare Erschütterungen zu verkraften. Auch um Elastizität der Erwartungen sich selbst gegenüber. Alles hat seine Zeit.
 
@@ -35,4 +37,3 @@ Das Bemerkenswerte dabei: Zwei von drei dieser Kinder zeigten problematisches Ve
 Dies ist somit der zweite zentrale Knackpunkt: Resilienz ist auch eine Funktion aus geglückter Bindung im Kindesalter.
 
 [Ö1](https://oe1.orf.at/player/20241114/778204), 14.11.24
-```
