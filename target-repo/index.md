@@ -1,4 +1,10 @@
+---
+date: 2024-11-30
+---
+
 # Index
+
+Im Folgenden eine Sammlung von Gedanken, die ich irgendwo gehört, gelesen oder selbst gedacht habe und die ich für wertvoll halte, um sie festzuhalten. Diese Seite befindet sich in einem stetigen Wandel, und ich bemühe mich, sie sukzessive zu verbessern.
 
 - [Es aushalten - Eigentliche Resilienz](./pages/001_es-aushalten-eigentliche-resilienz.md)
 - [Fokussierung](./pages/002_fokussierung.md)
@@ -18,3 +24,6 @@
 - [Kaizen - Continuous Improvement](./pages/016_kaizen.md)
 - [Plan with your Obstacles](./pages/017_plan-with-your-obstacles.md)
 - [Schnell reagieren](./pages/018_schnell-reagieren.md)
+- [Wieviel Zeit investieren](./pages/019-wieviel-zeit-investieren.md)
+- [Asking / Fragen](./pages/020_asking.md)
+- [Wie entsteht Geld](./pages/021_wie-entsteht-geld.md)

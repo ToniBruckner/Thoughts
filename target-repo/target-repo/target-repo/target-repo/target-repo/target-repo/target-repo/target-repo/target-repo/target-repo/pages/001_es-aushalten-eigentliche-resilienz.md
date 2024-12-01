@@ -36,5 +36,3 @@ Dies ist somit der zweite zentrale Knackpunkt: Resilienz ist auch eine Funktion 
 
 [Ö1](https://oe1.orf.at/player/20241114/778204), 14.11.24
 ```
-
-

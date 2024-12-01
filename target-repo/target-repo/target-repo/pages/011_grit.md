@@ -1,3 +1,8 @@
+---
+date: 2024-11-30
+layout: default
+---
+
 # GRIT
 
 The following text is from the book GRIT by Angela Duckworth

@@ -1,3 +1,8 @@
+---
+date: 2024-11-30
+layout: default
+---
+
 # Plan With Your Obstacles
 
 ### Danger of Positive Fantasizing

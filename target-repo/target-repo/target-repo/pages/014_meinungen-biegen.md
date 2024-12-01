@@ -1,3 +1,9 @@
+---
+date: 2024-11-30
+layout: default
+---
+
+
 ![alt text](./images/biegen.png)
 
 Das Zitat von Ernst Jandl, das Sie anführen, könnte tatsächlich inhaltlich gut mit der Aussage von Papst Franziskus in Verbindung gebracht werden. Beide Texte spielen mit der Spannung zwischen Flexibilität ("biegen") und der Gefahr des Zerbrechens ("brechen"). Während Jandl dies in einem persönlichen, existenziellen Kontext poetisch verarbeitet, greift Franziskus dieselbe Metapher auf, um eine Haltung in Konflikten zu beschreiben.

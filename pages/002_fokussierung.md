@@ -16,3 +16,5 @@ Peter Drucker sagte mal:
 **"Effektivität, ist die richtigen Dinge tun - Effizienz, ist die Dinge richtig tun".**
 
 tbd - überarbeiten
+
+![alt text](./images/fokussierung.png)
