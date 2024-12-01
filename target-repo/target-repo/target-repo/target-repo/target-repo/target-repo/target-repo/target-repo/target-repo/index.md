@@ -17,3 +17,4 @@
 - [Viewpoint flattening](./pages/015_viewpoint-view-flattening.md)
 - [Kaizen - Continuous Improvement](./pages/016_kaizen.md)
 - [Plan with your Obstacles](./pages/017_plan-with-your-obstacles.md)
+- [Schnell reagieren](./pages/018_schnell-reagieren.md)

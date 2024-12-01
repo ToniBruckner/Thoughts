@@ -1,3 +1,8 @@
+---
+date: 2024-11-30
+layout: default
+---
+
 # Schnell reagieren
 
 Beim Kaufen von Dingen wird vom Händler oft der Eindruck von Eile vermittelt, man wird unter Zeitdruck gesetzt - selbst wenn das gar nicht der Fall ist.

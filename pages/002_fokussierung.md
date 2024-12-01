@@ -1,3 +1,8 @@
+---
+date: 2024-11-30
+layout: default
+---
+
 ## Fokussierung
 
 „Wer alles verteidigt, verteidigt nichts.“
