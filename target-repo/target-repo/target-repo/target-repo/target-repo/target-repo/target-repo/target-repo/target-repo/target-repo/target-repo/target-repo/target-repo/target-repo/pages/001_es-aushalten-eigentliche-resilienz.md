@@ -16,12 +16,9 @@ Ebenso betont sie die Bedeutung von Vertrauensverhältnissen zu mehreren Bezugsp
 Dies wirft jedoch die Frage auf, ob Offenheit, Neugier und stabile soziale Bindungen tatsächlich die einzigen Grundlagen für Resilienz darstellen.
 Welche weiteren Faktoren können ebenfalls eine Rolle spielen, und wie können Erwachsene Resilienz aktiv entwickeln und stärken? Diese Aspkete könnte man noch genauer untersuchen.(tbd - erörtern)
 
+![Resilienz](./images/resilience.png)
 
----
-
-aus https://oe1.orf.at/player/20241114/778204
-
-`
+```
 Gedanken für den Tag
 Petra Ramsauer, Journalistin und angehende Psychotherapeutin, über Resilienz
 
@@ -36,6 +33,8 @@ Die Pionierin der Resilienzforschung, die Entwicklungspsychologin **Emmy Werner*
 Das Bemerkenswerte dabei: Zwei von drei dieser Kinder zeigten problematisches Verhalten, schlitterten später in Kriminalität und Drogenmissbrauch, zeigten psychische Erkrankungen. Doch ein Drittel entwickelte sich zu erfolgreichen Erwachsenen. Als zentralen Schutzfaktor für die seelische Gesundheit zeigte sich dabei, es waren jene, die als Kinder offen und neugierig auf neue Herausforderungen zugingen und jene, die mit einer oder mehreren Personen außerhalb der Familie ein Vertrauensverhältnis aufbauen konnten.
 
 Dies ist somit der zweite zentrale Knackpunkt: Resilienz ist auch eine Funktion aus geglückter Bindung im Kindesalter.
-`
+
+[Ö1](https://oe1.orf.at/player/20241114/778204), 14.11.24
+```
 
 

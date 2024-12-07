@@ -1,3 +1,8 @@
+---
+date: 2024-11-30
+layout: default
+---
+
 # Es aushalten. Eigentliche Resilienz
 
 ## Damit zu leben, was ist
