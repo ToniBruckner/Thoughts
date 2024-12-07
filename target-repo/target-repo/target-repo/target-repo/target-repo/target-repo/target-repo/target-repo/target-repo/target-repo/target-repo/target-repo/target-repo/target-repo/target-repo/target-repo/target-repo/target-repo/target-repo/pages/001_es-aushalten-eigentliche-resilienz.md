@@ -7,8 +7,16 @@ Resilienz (von lateinisch resilire: zurückspringen, abprallen, nicht anhaften),
 
 ## Damit zu leben, was ist
 
-Im Radiobeitrag (siehe Transkript unten) geht die Autorin einen Schritt weiter und sieht Resilienz als die Fähigkeit die Dinge so anzunehmen wie sie sind. 
-Sie merkt an, dass Kinder welche aus Armut kommen gefährdet sind in tbc
+Im Radiobeitrag (siehe Transkript unten) beleuchtet die Autorin einen weiteren Aspekt von Resilienz: die Fähigkeit die Dinge so anzunehmen wie sie sind - beispielsweise den Prozess des Äterwerdens.
+
+Sie merkt an, dass Kinder, die mit Offenheit & Neugier auf Herausforderungen herangehen wichtige Grundlagen für Resilienz schaffen.
+
+Ebenso betont sie die Bedeutung von Vertrauensverhältnissen zu mehreren Bezugspersonen, die einen wesentlichen Beitrag zur Entwicklung von Resilienz im Erwachsenenalter leisten können.
+
+Dies wirft jedoch die Frage auf, ob Offenheit, Neugier und stabile soziale Bindungen tatsächlich die einzigen Grundlagen für Resilienz darstellen.
+Welche weiteren Faktoren können ebenfalls eine Rolle spielen, und wie können Erwachsene Resilienz aktiv entwickeln und stärken? Diese Aspkete könnte man noch genauer untersuchen.(tbd - erörtern)
+
+
 ---
 
 aus https://oe1.orf.at/player/20241114/778204
@@ -23,7 +31,7 @@ Gestaltung: Alexandra Mantler
 
 In dieser Haltung steckt aus meiner Sicht das zentrale Prinzip der Resilienz, der unaufgeregten Widerstandsfähigkeit angesichts der Rhythmen einer Biografie. Schlussendlich geht es dabei auch um das Annehmen des Älterwerdens. Dass sich ein Lebensstil auf ein anderes Tempo umstellt. Oder auf mehr Unabhängigkeit beim Erwachsenwerden. Es spießt sich derzeit ein wenig an diesen Übergangsphasen im Leben.
 
-Die Pionierin der Resilienzforschung, die Entwicklungspsychologin Emmy Werner veröffentlichte 1989 die Ergebnisse einer 32 Jahre dauernden Forschungsarbeit. Sie untersuchte dabei knapp 700 Kinder in einer Stadt in Hawaii zwischen deren Geburt und ihrem dritten Lebensjahrzehnt. Zwei Drittel kamen aus stabilen, gut situierten Familien, ein Drittel erlebte von der Stunde Null an Armut, Konflikte im Zuhause. Sie galten als Risikogruppe.
+Die Pionierin der Resilienzforschung, die Entwicklungspsychologin **Emmy Werner** veröffentlichte 1989 die Ergebnisse einer 32 Jahre dauernden Forschungsarbeit. Sie untersuchte dabei knapp 700 Kinder in einer Stadt in Hawaii zwischen deren Geburt und ihrem dritten Lebensjahrzehnt. Zwei Drittel kamen aus stabilen, gut situierten Familien, ein Drittel erlebte von der Stunde Null an Armut, Konflikte im Zuhause. Sie galten als Risikogruppe.
 
 Das Bemerkenswerte dabei: Zwei von drei dieser Kinder zeigten problematisches Verhalten, schlitterten später in Kriminalität und Drogenmissbrauch, zeigten psychische Erkrankungen. Doch ein Drittel entwickelte sich zu erfolgreichen Erwachsenen. Als zentralen Schutzfaktor für die seelische Gesundheit zeigte sich dabei, es waren jene, die als Kinder offen und neugierig auf neue Herausforderungen zugingen und jene, die mit einer oder mehreren Personen außerhalb der Familie ein Vertrauensverhältnis aufbauen konnten.
 
