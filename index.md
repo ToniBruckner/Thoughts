@@ -27,3 +27,4 @@ Im Folgenden eine Sammlung von Gedanken, die ich irgendwo gehört, gelesen oder 
 - [Wieviel Zeit investieren](./pages/019-wieviel-zeit-investieren.md)
 - [Asking / Fragen](./pages/020_asking.md)
 - [Wie entsteht Geld](./pages/021_wie-entsteht-geld.md)
+- [Stress](./pages/022-stress.md)
