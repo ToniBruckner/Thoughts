@@ -1,3 +1,8 @@
+---
+date: 2024-12-01
+layout: default
+---
+
 David Allen sagt tatsächlich:
 
 > „Much of the stress that people feel doesn’t come from having too much to do. It comes from not finishing what they’ve started.“
