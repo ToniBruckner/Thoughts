@@ -1,5 +1,5 @@
 ---
-date: 2024-11-30
+date: 2024-12-08
 ---
 
 # Index
@@ -28,3 +28,6 @@ Im Folgenden eine Sammlung von Gedanken, die ich irgendwo gehört, gelesen oder 
 - [Asking / Fragen](./pages/020_asking.md)
 - [Wie entsteht Geld](./pages/021_wie-entsteht-geld.md)
 - [Stress](./pages/022-stress.md)
+- [Gut gemeint](./pages/023_gut-gemeint.md)
+- [Art und Weise](./pages/024_die-art-und-weise.md)
+- [Rezession, Inflation, Konjunktur](./pages/025-rezession-inflation-konjunktur.md)
