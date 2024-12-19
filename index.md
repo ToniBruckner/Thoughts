@@ -1,10 +1,10 @@
 ---
-date: 2024-12-08
+date: 2024-12-19
 ---
 
 # Index
 
-Im Folgenden eine Sammlung von Gedanken, die ich irgendwo gehört, gelesen oder selbst gedacht habe und die ich für wertvoll halte, um sie festzuhalten. Diese Seite befindet sich in einem stetigen Wandel, und ich bemühe mich, sie sukzessive zu verbessern.
+Im Folgenden eine Sammlung von Gedanken, die ich irgendwo gehört, gelesen oder selbst gedacht habe und die ich für wertvoll halte, um sie festzuhalten.
 
 - [Es aushalten - Eigentliche Resilienz](./pages/001_es-aushalten-eigentliche-resilienz.md)
 - [Fokussierung](./pages/002_fokussierung.md)
