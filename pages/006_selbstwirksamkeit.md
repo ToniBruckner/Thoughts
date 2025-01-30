@@ -5,4 +5,4 @@ layout: default
 
 # Selbstwirksamkeit / Self Efficiancy
 
-tbd
+Selbstwirksamkeit ist eine gute Möglichkeit um die 
