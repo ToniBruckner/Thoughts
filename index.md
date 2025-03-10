@@ -31,3 +31,5 @@ Im Folgenden eine Sammlung von Gedanken, die ich irgendwo gehört, gelesen oder 
 - [Gut gemeint](./pages/023_gut-gemeint.md)
 - [Art und Weise](./pages/024_die-art-und-weise.md)
 - [Rezession, Inflation, Konjunktur](./pages/025-rezession-inflation-konjunktur.md)
+- [Wut](./pages/026-wut.md)
+- [Mitten im Feuer](./pages/027-mitten-im-feuer.md)

@@ -50,4 +50,3 @@ Die Begriffe **Inflation**, **Rezession** und **Konjunktur** gehören zur makro�
 8. **Nachhaltiges Wachstum:** Langfristiges Wirtschaftswachstum, das ökologisch und sozial verträglich ist.
 
 ---
-
