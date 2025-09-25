@@ -7,7 +7,7 @@ layout: default
 
 {%- comment -%}
 1) Kandidaten: nur Dateien in pages/, nicht die aktuelle Seite
-   (Achtung: ohne führenden Slash filtern!)
+   (ohne führenden Slash filtern!)
 {%- endcomment -%}
 {% assign candidates = site.pages
   | where_exp: "p", "p.path contains 'pages/'"
@@ -26,11 +26,19 @@ layout: default
 
     {%- if label == "" -%}
       {%- assign html = p.content | markdownify -%}
-      {%- if html contains "<h1>" -%}
-        {%- assign label = html
-           | split: "<h1>" | slice: 1, 1 | first
-           | split: "</h1>" | first
-           | strip_html | strip -%}
+
+      {%- comment -%} H1 extrahieren – tolerant gegenüber Attributen in <h1 ...>{%- endcomment -%}
+      {%- assign parts = html | split: '<h1' -%}
+      {%- if parts.size > 1 -%}
+        {%- assign after_open = parts[1] | split: '>' | slice: 1, 1 | first -%}
+        {%- assign label = after_open | split: '</h1>' | first | strip_html | strip -%}
+      {%- else -%}
+        {%- comment -%} Optionaler Fallback: H2, falls keine H1 vorhanden {%- endcomment -%}
+        {%- assign parts2 = html | split: '<h2' -%}
+        {%- if parts2.size > 1 -%}
+          {%- assign after_open2 = parts2[1] | split: '>' | slice: 1, 1 | first -%}
+          {%- assign label = after_open2 | split: '</h2>' | first | strip_html | strip -%}
+        {%- endif -%}
       {%- endif -%}
     {%- endif -%}
 
