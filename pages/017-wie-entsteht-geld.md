@@ -2,7 +2,7 @@
 layout: default
 ---
 
-tbd - vereinfachen und verständlich machen
+<!-- tbd - vereinfachen und verständlich machen -->
 
 # Wie entsteht Geld? (aus chatGPT)
 
