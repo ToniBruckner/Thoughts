@@ -6,46 +6,37 @@ layout: default
 <h1>{{ page.title }}</h1>
 
 {%- comment -%}
-1) Kandidaten: nur Dateien unter /pages/, nicht die aktuelle Seite
+1) Kandidaten: nur Dateien in pages/, nicht die aktuelle Seite
+   (Achtung: ohne führenden Slash filtern!)
 {%- endcomment -%}
 {% assign candidates = site.pages
-  | where_exp: "p", "p.path contains '/pages/'"
+  | where_exp: "p", "p.path contains 'pages/'"
   | where_exp: "p", "p.url != page.url" %}
 
 {%- comment -%}
-2) Nach URL deduplizieren
+2) Nach URL deduplizieren und nach URL sortieren
 {%- endcomment -%}
-{% assign groups = candidates | group_by: "url" %}
-{% assign pages = "" | split: "" %}
-{% for g in groups %}
-  {% assign pages = pages | push: g.items.first %}
-{% endfor %}
-
-{%- comment -%}
-3) Sortieren
-{%- endcomment -%}
-{% assign pages = pages | sort: "url" %}
+{% assign groups = candidates | group_by: "url" | sort: "name" %}
 
 <ul>
-{%- for p in pages -%}
+{%- for g in groups -%}
+  {%- assign p = g.items.first -%}
   {%- unless p.path contains 'target-repo/' -%}
-    {%- if p.extname == '.md' or p.extname == '.markdown' -%}
-      {%- assign label = p.title | to_s | strip -%}
+    {%- assign label = p.title | to_s | strip -%}
 
-      {%- if label == "" -%}
-        {%- assign html = p.content | markdownify -%}
-        {%- if html contains "<h1>" -%}
-          {%- assign label = html
-             | split: "<h1>" | slice: 1, 1 | first
-             | split: "</h1>" | first
-             | strip_html | strip -%}
-        {%- endif -%}
+    {%- if label == "" -%}
+      {%- assign html = p.content | markdownify -%}
+      {%- if html contains "<h1>" -%}
+        {%- assign label = html
+           | split: "<h1>" | slice: 1, 1 | first
+           | split: "</h1>" | first
+           | strip_html | strip -%}
       {%- endif -%}
-
-      {%- assign label = label | default: p.name | strip -%}
-
-      <li><a href="{{ p.url | relative_url }}">{{ label }}</a></li>
     {%- endif -%}
+
+    {%- assign label = label | default: p.name | strip -%}
+
+    <li><a href="{{ p.url | relative_url }}">{{ label }}</a></li>
   {%- endunless -%}
 {%- endfor -%}
 </ul>
