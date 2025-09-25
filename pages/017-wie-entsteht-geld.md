@@ -4,7 +4,7 @@ layout: default
 
 <!-- tbd - vereinfachen und verständlich machen -->
 
-# Wie entsteht Geld? (aus chatGPT)
+# Wie entsteht Geld? - aus chatGPT - überarbeiten
 
 Geld entsteht auf verschiedene Weisen, abhängig davon, ob es sich um Zentralbankgeld oder Buchgeld (auch Giralgeld genannt) handelt. Hier sind die wesentlichen Mechanismen der Geldschöpfung:
 
