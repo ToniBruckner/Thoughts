@@ -1,3 +1,8 @@
+---
+date: 2024-03-10
+layout: default
+---
+
 # Mitten im Feuer
 
 Hab einen schönen Spruch - von einer Frau die trotz des Regimes in Afghanistan geblieben ist und dort Widerstand leistet und sogar damit rechnet, dass sie eingesperrt wird - auf ORF 1 gehört.
