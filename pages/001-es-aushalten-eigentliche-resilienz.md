@@ -1,7 +1,9 @@
 ---
-date: 2024-11-30
 layout: default
 ---
+
+<p>Seite zuletzt aktualisiert am: {{ site.time | date: "%d.%m.%Y" }}</p>
+
 
 # Es aushalten. Eigentliche Resilienz
 
