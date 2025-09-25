@@ -1,3 +1,9 @@
+---
+title: Dokumentation
+layout: default
+date: 2025-09-25
+---
+
 {% assign docs = site.pages
   | where_exp: "p", "p.path contains 'docs/'"
   | where_exp: "p", "p.url != page.url"
@@ -9,9 +15,6 @@
 </ul>
 
 
----
-date: 2024-12-19
----
 
 # Index
 
