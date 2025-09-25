@@ -6,14 +6,10 @@ layout: default
 <h1>{{ page.title }}</h1>
 
 {%- comment -%}
-1) Kandidaten:
-   - nur Dateien unter /pages/
-   - nur Markdown
-   - nicht die aktuelle Seite
+1) Kandidaten: nur Dateien unter /pages/, nicht die aktuelle Seite
 {%- endcomment -%}
 {% assign candidates = site.pages
   | where_exp: "p", "p.path contains '/pages/'"
-  | where_exp: "p", "p.extname == '.md' or p.extname == '.markdown'"
   | where_exp: "p", "p.url != page.url" %}
 
 {%- comment -%}
@@ -26,28 +22,30 @@ layout: default
 {% endfor %}
 
 {%- comment -%}
-3) Sortieren nach URL
+3) Sortieren
 {%- endcomment -%}
 {% assign pages = pages | sort: "url" %}
 
 <ul>
 {%- for p in pages -%}
   {%- unless p.path contains 'target-repo/' -%}
-    {%- assign label = p.title | to_s | strip -%}
+    {%- if p.extname == '.md' or p.extname == '.markdown' -%}
+      {%- assign label = p.title | to_s | strip -%}
 
-    {%- if label == "" -%}
-      {%- assign html = p.content | markdownify -%}
-      {%- if html contains "<h1>" -%}
-        {%- assign label = html
-           | split: "<h1>" | slice: 1, 1 | first
-           | split: "</h1>" | first
-           | strip_html | strip -%}
+      {%- if label == "" -%}
+        {%- assign html = p.content | markdownify -%}
+        {%- if html contains "<h1>" -%}
+          {%- assign label = html
+             | split: "<h1>" | slice: 1, 1 | first
+             | split: "</h1>" | first
+             | strip_html | strip -%}
+        {%- endif -%}
       {%- endif -%}
+
+      {%- assign label = label | default: p.name | strip -%}
+
+      <li><a href="{{ p.url | relative_url }}">{{ label }}</a></li>
     {%- endif -%}
-
-    {%- assign label = label | default: p.name | strip -%}
-
-    <li><a href="{{ p.url | relative_url }}">{{ label }}</a></li>
   {%- endunless -%}
 {%- endfor -%}
 </ul>
