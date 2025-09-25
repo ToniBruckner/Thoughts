@@ -1,14 +1,18 @@
 ---
-title: Dokumentation
+title: Übersicht
 layout: default
 ---
 
-{% assign docs = site.pages
+{% assign urls = site.pages
   | where_exp: "p", "p.path contains 'pages/'"
-  | where_exp: "p", "p.url != page.url"   /* sich selbst ausschließen */
-  | sort: "title" %}
+  | where_exp: "p", "p.url != page.url"
+  | map: "url"
+  | uniq
+  | sort %}
+
 <ul>
-{% for p in docs %}
+{% for u in urls %}
+  {% assign p = site.pages | where: "url", u | first %}
   <li><a href="{{ p.url | relative_url }}">{{ p.title | default: p.name }}</a></li>
 {% endfor %}
 </ul>
