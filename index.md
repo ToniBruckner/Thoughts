@@ -8,7 +8,7 @@ layout: default
   | where_exp: "p", "p.url != page.url"
   | sort: "title" %}
 <ul>
-  {% for p in docs %}
+  {% for p in pages %}
     <li><a href="{{ p.url | relative_url }}">{{ p.title | default: p.name }}</a></li>
   {% endfor %}
 </ul>
