@@ -2,10 +2,8 @@
 layout: default
 ---
 
-<p>Seite zuletzt aktualisiert am: {{ site.time | date: "%d.%m.%Y" }}</p>
-
-
 # Es aushalten. Eigentliche Resilienz
+<p>Seite zuletzt aktualisiert am: {{ site.time | date: "%d.%m.%Y" }}</p>
 
 ## Damit zu leben, was ist
 
