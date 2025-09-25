@@ -1,7 +1,8 @@
 ---
-date: 2024-12-01
 layout: default
 ---
+
+# Stress
 
 David Allen sagt tatsächlich:
 

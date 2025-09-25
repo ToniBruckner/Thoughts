@@ -1,7 +1,8 @@
 ---
-date: 2024-12-19
 layout: default
 ---
+
+# Rezession, Inflation, Konjunktur - Definitionen und Unterschiede
 
 Die Begriffe **Inflation**, **Rezession** und **Konjunktur** gehören zur makroökonomischen Analyse und beschreiben verschiedene Aspekte der Wirtschaftslage. Hier sind die Definitionen und Unterschiede:
 

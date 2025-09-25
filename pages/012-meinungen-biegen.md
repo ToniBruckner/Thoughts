@@ -1,8 +1,8 @@
 ---
-date: 2024-11-30
 layout: default
 ---
 
+# Meinungen biegen
 
 ![alt text](./images/biegen.png)
 

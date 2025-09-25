@@ -1,9 +1,8 @@
 ---
-date: 2024-12-19
 layout: default
 ---
 
-## Glauben, Meinen und Wissen
+# Glauben, Meinen und Wissen
 
 Kant spricht von Glauben, Wissen und Meinen in der "Kritik der reinen Vernunft", und zwar im Abschnitt über den Modus des Fürwahrhaltens. Genauer ist das Thema im ersten Teil der Transzendentalen Methodenlehre unter der Überschrift:
 

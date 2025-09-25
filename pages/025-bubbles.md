@@ -1,11 +1,8 @@
 ---
-date: 2024-12-19
 layout: default
 ---
 
 # Bubbles
-
-## Bubbles
 
 Das Konzept der "Bubbles" könnte sich auf soziale, technische, oder sogar konzeptionelle Strukturen beziehen, die in sich geschlossen sind. Ich werde es allgemein interpretieren und dir mit Ansätzen helfen, die auf verschiedenen Anwendungsfällen basieren könnten (z. B. soziale Netzwerke, Organisationsstrukturen, technische Systeme).
 

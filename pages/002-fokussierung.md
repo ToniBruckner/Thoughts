@@ -1,9 +1,8 @@
 ---
-date: 2024-12-19
 layout: default
 ---
 
-## Prioritäten & Fokussierung
+# Prioritäten & Fokussierung
 
 „Wer alles verteidigt, verteidigt nichts.“
 Friedrich der Große

@@ -1,9 +1,8 @@
 ---
-date: 2025-01-06
 layout: default
 ---
 
-# Hab ich einen Nutzen?
+# Nutzen-Kosten-Rechnung (Cost-Benefit Analysis)
 
 ## Definition: Kosten-Nutzen-Rechnung
 

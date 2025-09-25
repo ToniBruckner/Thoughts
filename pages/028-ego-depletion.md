@@ -1,5 +1,4 @@
 ---
-date: 2024-04-03
 layout: default
 ---
 
