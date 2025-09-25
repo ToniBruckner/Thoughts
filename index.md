@@ -5,12 +5,13 @@ layout: default
 
 {%- comment -%}
 1) Kandidaten einschränken:
-   - nur Dateien unter /pages/
-   - nur Markdown
+   - nur /pages/*.md
+   - keine Dateien aus target-repo/
    - nicht die aktuelle Seite
 {%- endcomment -%}
 {% assign candidates = site.pages
   | where_exp: "p", "p.path contains '/pages/'"
+  | where_exp: "p", "p.path contains 'target-repo/' == false"
   | where_exp: "p", "p.extname == '.md' or p.extname == '.markdown'"
   | where_exp: "p", "p.url != page.url" %}
 
@@ -24,7 +25,7 @@ layout: default
 {% endfor %}
 
 {%- comment -%}
-3) Sortieren (optional: nach URL)
+3) Sortieren nach URL
 {%- endcomment -%}
 {% assign pages = pages | sort: "url" %}
 
