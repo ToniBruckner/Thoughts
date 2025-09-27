@@ -34,6 +34,25 @@ Education is the one area which when provided can make the knowledge worker prod
 Knowledge work is not defined by its quantity, neither by its costs.
 Knowledge work is defined by its results!
 
-tbd - weiter Seite 9 Executive Realities
+### Executive Realities - What is pushing towards ineffectiveness
 
+1. the Eecutive'S time tends to belonge to everybody else
+2. Executives are forced to keep on "operating" unless they take positive actions to change the reality in which they live and work
+  e.g. people tend to continue to work in the old position (e.g. marketing) although they have been promoted to an executive position and are in charge of e.g. the whole business and should work in this direction.
+  If an executive let's the flow of events determine what he does and what he takes seriously, he will waste himself in "operating". He wastes his knowledge and abilites and throws away the little time he needs for effectiveness.
+  He needs criteria for him to decide what is really important. That is on contributions and results, even if those criteria is not found in the flow of events.
 
+3. Executives are within an organization (1)
+  He is only effective when other people use what he contributes. Organizations are good if the multiply the strength of individuals. Knowledge workers are rarely in phase with each other. So each has to be able to use what others produces.
+  Unless the executive can reach these people, can make his contribution effective for them and in their work, he has no effectiveness at all.
+4. Executives are within an organization (2)
+  The executive sees the outside only through thick and distorting lenses, if at all. What goes on outside is usually not even known firsthand.
+  But all thre reuslts are outside, there are no results inside the organization.
+  Unless he makes special efforts to gain access to the outside, he will be increasingly inside focused. The higher up in the organization he goes, the more the more he will be drawn to problems and challenges of the inside rather to events on the outside. The thing with relevant outside events is that they are rarely available in quantifiable form until it is much to late to do anything about them.
+  **Truly important events on the outside are not the trends.** ***Truly important events are changes in the trends*** e.g. PC → Mobile Phones, Office → remote Work, On-Premise → Cloud
+  Such changes, however, have to be perceived. The cannot be counted, defined, of classified. They have to be sensed, felt, and interpreted. Man is not particulary logical is perceptive — and that is his strength. 
+  The tremendous amount of computer information may thus shut out access to reality.
+
+### The Promise of Effectiveness
+
+tbc - p. 18
