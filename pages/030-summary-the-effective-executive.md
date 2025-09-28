@@ -55,4 +55,13 @@ Knowledge work is defined by its results!
 
 ### The Promise of Effectiveness
 
-tbc - p. 18
+A senior executive should have extraordinary abilities. He should excel as an analyst, decision maker, communicator, leader etc.
+What seems to be wanted is **universal genius**, but this is a rare supply. The experience of the human race indicates strongly that the only person in numerous supply is the **universal incompetent**.
+Therefore you have to staff your organizations with people who at best perform in one of the abilities with excellence.
+So we have to learn to make the best use of people who are good at one area.
+if you can't increase the suppy of a resource, you have to increase its yield (Ertrag).
+Effectiveness is **the one tool** to make the resources of ability and knowledge yield more and better results.
+
+### But can effectiveness be learned?
+
+tbc - p.22

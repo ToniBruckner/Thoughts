@@ -2,9 +2,7 @@
 layout: default
 ---
 
-<!-- tbd - vereinfachen und verständlich machen -->
-
-# Wie entsteht Geld? - aus chatGPT - überarbeiten
+# Wie entsteht Geld?
 
 Geld entsteht auf verschiedene Weisen, abhängig davon, ob es sich um Zentralbankgeld oder Buchgeld (auch Giralgeld genannt) handelt. Hier sind die wesentlichen Mechanismen der Geldschöpfung:
 
@@ -13,6 +11,10 @@ Die Zentralbank eines Landes, wie die Europäische Zentralbank (EZB) oder die Fe
 
 - **Drucken von Banknoten**: Die Zentralbank gibt physisches Geld aus (Münzen und Banknoten). Dies stellt jedoch nur einen kleinen Teil der gesamten Geldmenge dar.
 - **Bereitstellung von Reserven**: Geschäftsbanken halten ein Konto bei der Zentralbank, und wenn die Zentralbank Geld schöpft, erhöht sie einfach die Guthaben auf diesen Konten.
+    Das passiert z. B. durch:
+	- Kredite an Geschäftsbanken: Eine Bank leiht sich bei der EZB Geld. Dafür stellt sie Sicherheiten (z. B. Staatsanleihen). Die EZB schreibt der Bank den Kreditbetrag auf ihrem Zentralbankkonto gut → das sind neue Reserven.
+    - Käufe von Wertpapieren: Die Zentralbank kauft z. B. Staatsanleihen von Banken. Als Bezahlung erhöht sie einfach deren Guthaben bei der Zentralbank → Reserven entstehen.
+    - Andere Transaktionen: z. B. wenn der Staat über die Zentralbank Geld in Umlauf bringt.
 
 ### 2. **Giralgeldschöpfung (Buchgeldschöpfung)**
 Der Großteil des Geldes entsteht jedoch nicht durch die Zentralbank, sondern durch **Geschäftsbanken** im Rahmen der Kreditvergabe. Dies wird auch als **Giralgeldschöpfung** bezeichnet. Der Prozess funktioniert wie folgt:
