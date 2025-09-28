@@ -64,4 +64,35 @@ Effectiveness is **the one tool** to make the resources of ability and knowledge
 
 ### But can effectiveness be learned?
 
-tbc - p.22
+If effectiveness can be learned then:
+1. What does it consist in?
+2. What does one have to learn?
+3. Of what kind is that learning?
+4. Is it a skill which one learns as an apprentice?
+5. Is it a practice which one learns by doing the same things over and over again?
+
+Drucker soon learned through observation that there is no effective personality.
+Effective executives differ widely in their temperaments and their abilities, in what they do and how they do it, in their personalities, their knowledge, their interests –– in fact in almost everything that distinguishes one human being from another.
+
+**All they have in common is the ability to get the right things done.**
+What all these effective executives have in common is the ***practices*** that make effective whatever they have and whathever they are. And those practices are the same wherever the excecutive operates.
+Nevertheless whenever Drucker found a man, no matter how great his intelligence, his imagination, his knowledge,etc., who did not use those practices he lacked in effectiveness.
+
+Effectiveness, in other word is a **habit**, which is a set of **practices**.
+And practices always can be learned.<br>Practices are simple, *deceptively(trügerisch) simple*. A seven year old has no problems in understanding them.
+But practices are always *exceedingly hard to do well*. The have to be acquired, as well as we all learn the multiplication table, that is repeated ad nauseam until it becomes a unthinking, conditioned reflex, and firmly ingrained habit.<br>
+**Practices one learns by practicing and practicing and practicing again.**
+
+If you learn Piano you probably won't be able to play Mozart like Arthur Schnabel did, but there is no reason in the world why you should not be able to play the scales like Schnabel did.
+In other words there is no reason why anyone in the world should not be abke to acquire competence in any practice. Mastery might well elude him; for this one might need special talent.<br>
+But what is needed in effectiveness is competence, not mastery. What is needed are "the scales"!
+
+There are essentially five practices, five such habits of the mind that have to be aquired to become an effective executive.
+
+1. Effective Executives know where their time goes.<br>
+They work systematically at managing the little of their time that can be brought under their control. 
+2. Effective Executives focus on outward contribution.<br> They streamline there efforts to results, rather than to work. The start with the question "What results are expected of me?" rather than with the work to be done or the techniques to be applied.
+3. Effective Executives build on their strengths.<br> Their own strengths, the strengths of their superiors, colleagues, subordinates, an on the strenght is the situation, that is, on what they can do. They do not build on weaknesses. They don't start out with the things they cannot do.
+4. Effective Executives concentrate on a few major areas where superior performance will produce outstanding results.<br> They force themselves on the few major areals where superior performance will produce outstanding results. The force themselves to set priorities and stay with those priority decisions. They know that they have no choice but to do first things first––and second things not at all. **The alternative is to get nothing done.**
+5. Effective Executives make effective decisions.<br> They know that this is, above all, amatter of system––of the right steps in the right sequence. They know that an effective decision is always a judgement based on "dissending opinions" rather than "consensus on the facts". And they know that to make many decisions fast means to make the wrong decisions. What is needed are few, but fundamental, decisions What is needed is the right strategy rather than razzle-dazzle tactics.
+
