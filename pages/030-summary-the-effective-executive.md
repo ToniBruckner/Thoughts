@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# Summary: The Effective Executive
+# Summary: The Effective Executive by Peter F. Drucker
 
 ## Effectiveness Can Be Learned
 
