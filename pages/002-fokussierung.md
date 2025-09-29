@@ -18,9 +18,9 @@ Auch hier ist es Fokussierung welche Dinge wähle ich aus, auf welche Dinge konz
 
 ![alt text](./images/fokussierung.png)
 
-Es gibt eine interessante Geschichte über einen Professor, der seinen Schülern ein leeres Glas zeigt und sie fragt, ob das Glas leer ist. Die Schüler antworten mit "Ja".
-Daraufhin legt der Professor große Steine in das Glas und fragt erneut, ob das Glas leer sei.
-Die Schüler antworten diesmal mit "Nein". Anschließend gibt der Professor Sand in das Glas, der sich zwischen den großen Steinen verteilt. Wieder fragt er, ob das Glas nun voll sei.
+Es gibt eine interessante Geschichte über einen Professor, der seinen Schülern ein leeres Glas zeigt.
+Daraufhin legt der Professor große Steine in das Glas und fragt, ob das Glas voll sei.
+Die Schüler antworten mit "Ja". Anschließend gibt der Professor Sand in das Glas, der sich zwischen den großen Steinen verteilt. Wieder fragt er, ob das Glas nun voll sei.
 Die Schüler antworten: "Nein, man könnte ja noch Wasser hineingießen, das die restlichen Lücken füllen würde."
 
 Schließlich fragt der Professor, was die Moral dieser Geschichte sei. Einer der Schüler antwortet, dass man im Leben immer noch Platz für etwas finden kann.
