@@ -4,9 +4,9 @@ layout: default
 
 # Summary: The Effective Executive by Peter F. Drucker
 
-## Effectiveness Can Be Learned
+## 1. Effectiveness Can Be Learned
 
-### Effectiveness Over Brilliance
+### 1.2 Effectiveness Over Brilliance
 
 There is little correkation between a man's effectiveness and his intelligence, his imagination, his knowledge of his business, or his education. 
 Brilliant men are often strikingly ineffective.
@@ -25,7 +25,7 @@ In the end, effectiveness is a habit, a discipline, and a skill. It can be learn
 One can indeed never be sure what the knowledge workers thinks -- and yet thinking is his specific word; it is his "doing".
 
 
-### Effectiveness is working on the right things
+### 1.2 Effectiveness is working on the right things
 
 Working on the right things is what makes knowledge work effective. This is not capable of being measured by any of the yardsticks for manual work.
 
@@ -34,7 +34,7 @@ Education is the one area which when provided can make the knowledge worker prod
 Knowledge work is not defined by its quantity, neither by its costs.
 Knowledge work is defined by its results!
 
-### Executive Realities - What is pushing towards ineffectiveness
+### 1.3Executive Realities - What is pushing towards ineffectiveness
 
 1. the Eecutive'S time tends to belonge to everybody else
 2. Executives are forced to keep on "operating" unless they take positive actions to change the reality in which they live and work
@@ -53,7 +53,7 @@ Knowledge work is defined by its results!
   Such changes, however, have to be perceived. The cannot be counted, defined, of classified. They have to be sensed, felt, and interpreted. Man is not particulary logical is perceptive — and that is his strength. 
   The tremendous amount of computer information may thus shut out access to reality.
 
-### The Promise of Effectiveness
+### 1.4 The Promise of Effectiveness
 
 A senior executive should have extraordinary abilities. He should excel as an analyst, decision maker, communicator, leader etc.
 What seems to be wanted is **universal genius**, but this is a rare supply. The experience of the human race indicates strongly that the only person in numerous supply is the **universal incompetent**.
@@ -62,7 +62,7 @@ So we have to learn to make the best use of people who are good at one area.
 if you can't increase the suppy of a resource, you have to increase its yield (Ertrag).
 Effectiveness is **the one tool** to make the resources of ability and knowledge yield more and better results.
 
-### But can effectiveness be learned?
+### 1.5 But can effectiveness be learned?
 
 If effectiveness can be learned then:
 1. What does it consist in?
@@ -95,4 +95,25 @@ They work systematically at managing the little of their time that can be brough
 3. Effective Executives build on their strengths.<br> Their own strengths, the strengths of their superiors, colleagues, subordinates, an on the strenght is the situation, that is, on what they can do. They do not build on weaknesses. They don't start out with the things they cannot do.
 4. Effective Executives concentrate on a few major areas where superior performance will produce outstanding results.<br> They force themselves on the few major areals where superior performance will produce outstanding results. The force themselves to set priorities and stay with those priority decisions. They know that they have no choice but to do first things first––and second things not at all. **The alternative is to get nothing done.**
 5. Effective Executives make effective decisions.<br> They know that this is, above all, amatter of system––of the right steps in the right sequence. They know that an effective decision is always a judgement based on "dissending opinions" rather than "consensus on the facts". And they know that to make many decisions fast means to make the wrong decisions. What is needed are few, but fundamental, decisions What is needed is the right strategy rather than razzle-dazzle tactics.
+
+## 2. Know your Time
+
+Most people think you should plan your work. Unfortunately, the plans always remain on paper, always remain good intentions. The rarely become achievements. This becomes frustrating.
+
+Effective Executive, do not start with their tasks!<br>
+**The start with their time.** <br>
+And they do not start out with planning.<br>
+**They start by finding out where their time actually goes.**<br>
+**Then they attempt to manage their time and to cut back unproductive demands on their time.**<br>
+**Finally they consolidate their available time into the largest possible continuing chunks.**<br>
+
+So it is a three step process:
+1. Record your time
+2. Manage your time
+3. Consolidate (zusammenlegen) your time
+This process is the foundation of effectiveness.
+
+Effective executives know that **time is the limiting factor**.<br>
+The output limits of any process are set by the scarcest resource. In knowledge work this is time.<br>
+In the process we call "accomplishment," this is time. In other words, **Time is the fundamental resource that makes accomplishment possible.**<br>
 
