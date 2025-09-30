@@ -117,3 +117,15 @@ Effective executives know that **time is the limiting factor**.<br>
 The output limits of any process are set by the scarcest resource. In knowledge work this is time.<br>
 In the process we call "accomplishment," this is time. In other words, **Time is the fundamental resource that makes accomplishment possible.**<br>
 
+**Time is an unique, outstanding resource**<br>
+All of the othermajor resources, e.g. money is quite plentyful. We long ago should have learned that it is thedemand for capital, rather than the supply which sets the limit to economic growth.
+People––the thrid limiting resource––one can hire, though on can rarely hire enough good people.
+→ **But one cannon rent, hire, buy or otherwise obtain more time.**<br>
+The supply of time is totally inelastic. No matter how high the demand, the supply will not go up.
+Morover, time is perishable (transient, vergänglich) and cannot be stored.<br>
+**Yesterday's time is gone forever and will never come back.** Time is therefore always in exeedingly short supply. It is always the scarcest resource.
+All works take place in time and uses up time.
+Yet most people take for granted this unique, irreplaceable, and necessary resource.
+→ *Nothing else*, perhaps, distinguishes the effective executive as much as their tender loving care of time.<br>
+**! Man is ill-equiped to manage his time. !**<br>
+
