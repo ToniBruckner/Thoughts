@@ -129,4 +129,4 @@ Yet most people take for granted this unique, irreplaceable, and necessary resou
 → *Nothing else*, perhaps, distinguishes the effective executive as much as their tender loving care of time.<br>
 **! Man is ill-equiped to manage his time. !**<br>
 
-![effective-executive-time](effective-executive-time.png)
+![effective-executive-time](./images/effective-executive-time.png)
