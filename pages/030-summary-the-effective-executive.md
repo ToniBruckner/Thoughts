@@ -160,6 +160,9 @@ So an superior has to sit down with his knowledge workers on a regular basis and
 - And all togehter, what do you wand to know from me about the organization?
 
 Without it, the knowledge people either loose enthusiasm and become time-servers and get away from opportunities and needs of the organization.
+*Note: What came into my mind when reading that was a quote from Saint-Exupery: "If you want to build a ship, don’t drum up the men to gather wood, divide the work, and give orders. Instead, teach them to yearn (verlange) for the vast and endless sea."*
+
+![yearn for the sea](./images/yearn-for-the-sea.png)
 
 Among the effective executives Drucker observed people who made decisions fast, and people who make them rather slowly.
 But without exception **the make presonnel decisions slowly** and they make them several times before they really commit themselves.
