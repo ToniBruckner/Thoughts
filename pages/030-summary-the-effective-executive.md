@@ -127,6 +127,7 @@ Morover, time is perishable (transient, vergänglich) and cannot be stored.<br>
 All works take place in time and uses up time.
 Yet most people take for granted this unique, irreplaceable, and necessary resource.
 → *Nothing else*, perhaps, distinguishes the effective executive as much as their tender loving care of time.<br>
-**! Man is ill-equiped to manage his time. !**<br>
+***Man is ill-equiped to manage his time.**<br>
 
 ![effective-executive-time](./images/effective-executive-time.png)
+
