@@ -131,3 +131,41 @@ Yet most people take for granted this unique, irreplaceable, and necessary resou
 
 ![effective-executive-time](./images/effective-executive-time.png)
 
+The effective executive therefore knows that to manage his time, he first has to know where it actually goes.<br>
+
+### Large Chunks of time instead of Time Wasters
+
+in every executive job, a large part of the time must therefore be wasted on things which, though they apparently have to be done, contribute nothing or little.
+The higher up in the organization hie is, the more demands on his time will the organization make.<br>
+
+Yet most of the tasks of the executive require, for minimum effectiveness, a fairly large quantum of time. To spend in one stretch less than his minimum is sheer waste.
+→ **One accomplishes nothing and has to begin all over again.**<br>
+
+e.g. if you write a report it may require 6 to 8 hours at least to write a first draft. It is pointless to give seven hours to the task by spending fifteen minutes twice a day for three weeks.<br>
+All you've got is a blank paper with some doodles on it. But if one can lock the door, disconnect from communication and sits down for let's say 5 to 6 hours without interruption, one has a good chance to write a what Drucker calls a "zero draft". The one before the first draft. From then you can work in fairly small installments, can rewrite, edit and correct section nby section, paragraph by paragraph, sentence by sentence.
+
+So, to be executive you have to be able to dispose of time in fairly big chunks. To have small dribs of time at his disposal will not be sufficient even if the total is an immpressive number of hours.
+This is particulary true with respect to time spent working with people, which is course, a central task in the work of the executive. People are time-consumers. And most people are time-wasters.
+So, to get anything done with people and would like to have an impact you have to spend a fairly large minimum quantum of time.
+One has to sit down with a knowledge worker and think through with him what should be done an why, before one can even know whether he is doing a satisfactory job or not. And this is time consuming.
+
+the knowledge worker must be focused on the results and performance goals of the entire organization to have any results and performance at all. So he has to set aside time to direct his vision from his work to results, and from his speciality **to the outside in which alone performance lies.**
+
+So an superior has to sit down with his knowledge workers on a regular basis and ask:
+
+- What should we at the head of the organization know about your work?
+- What do you want to tell me regarding the organization?
+- Where do you see opportunities we do not exploit?
+- Where do you see dangers to which we are still blind?
+- And all togehter, what do you wand to know from me about the organization?
+
+Without it, the knowledge people either loose enthusiasm and become time-servers and get away from opportunities and needs of the organization.
+
+Among the effective executives Drucker observed people who made decisions fast, and people who make them rather slowly.
+But without exception **the make presonnel decisions slowly** and they make them several times before they really commit themselves.
+e.g. Sloan, former boss of General Motors never mad e a personell decision the first time it cam up and he always picked winners.
+Asked about his secret: "No secret–– I have simply accepted that the first name I come up with is likely to be the wrong name––and I therefore retrace the whole process of thought and analysis a few times before i act". Yet Sloan was far away from a patien man.
+
+### Time-Diagnosis
+
+tbc
