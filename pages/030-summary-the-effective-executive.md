@@ -171,4 +171,19 @@ Asked about his secret: "No secret–– I have simply accepted that the first n
 
 ### Time-Diagnosis
 
-tbc
+That one must record the time before one can know where it goes, and before one can try to manage it.
+
+The specific method of recording time is not important to us. What matters is that it is done and that the recording takes place in "real-time", i.e. at the moment the event occurs and not later from memory.
+
+
+Many people keep such a log continuously and review it regularly every month. At a minimum, they keep it for about three to four weeks at a stretch, about twice a year, on a regular schedule.
+
+
+Time utilization improves with practice. But only **constant** efforts in time management can prevent one from drifting and wasting time on trivialities.
+
+
+#### Systematic Time Management – Find the Time Thieves
+
+
+
+tbc p. 36
