@@ -182,8 +182,41 @@ Many people keep such a log continuously and review it regularly every month. At
 Time utilization improves with practice. But only **constant** efforts in time management can prevent one from drifting and wasting time on trivialities.
 
 
-#### Systematic Time Management – Find the Time Thieves
+#### Systematic Time Management – Find the Time Thieves - Time Diagnosis
 
+One hasto find the nonproductive, time-wasting activities and get rid of them if one possibly can.
 
+1. Try to identify and eliminate the things that need not be done at all. Those are purely a waste of time without any results.
+Look at the time record and ask for every activty: **What would happen if this were not done at all?** If the answer is "Nothing would had happen", then obviously the conclusion is to stop doint it.
 
-tbc p. 36
+2. Delegation: **"Which of the activities on my time log could be done by somebody else just as well, if ot better?"**
+
+There is a lot of work which easily can be done be down by others and therefore should be done by others. 
+"Delegation" as the term is customarily used, is a misunderstanding––is indeed misdirection. But getting rid of anything that can be done by somebody else so that one does not have to delegate but can really get to one's own work––that is major improvement in effectivess.
+
+3. The Time of Others he himslef wastes
+
+Ask others, "What do I do that wastes your time without contributing to you effectiveness?"
+The manner in which an executive does productive work may still be a major waste of somebody's else' time.
+
+Possiblit of an invitation to a meeting:
+"I have asked [Messrs Smith, Jones, and Robinson] to meet with me [Wednesday at 10 A.M.] to discuss [next years capital apropriations budget]. Please come if you think that you need the information or want to take part in the discussion. But you will in any event receive right away a full summary of the discussion and of any decisions reached, together with a request of your comments"
+--> where  formerly a dowzen people came and stayed all afternoon, three men and a secretary to take the notes now get the matter over with within an hour or so. A no one feels left out.
+
+#### Cut the Time Wasters
+
+1. The first task is to identify the time wasters which follow from lack of system or foresight.
+The symptom to look for is the "recurrent crisis", the crisis which cames back year after year. A crisis that recurs a second time is a crisis that must not occur again.
+A recurrent crisis should always have been forseed. It can therefore always be prevented or reduced to a routine which clerks can manage.
+
+A recurrent crisis is simply a symptom of slovenliness (Schlampigkeit) and laziness.
+e.g. a well-managed plant, is a quiet place. A "factory" that is "dramatic", a factory in which the "epic of the industy" is unfolded before the visitiors eyes, is poorly managed.
+Nothing exciting happens in it because the crises have been anticipated and have been converted into routine.
+
+2. Time-wastes often results from overstaffing
+
+A work force may, indeed, be too small for the task. And the work suffers, if it gets done at all. But this is not the rule. Much more common is the work force that is too big for effectiveness, the work force that spends, therefore, an increasing amount of its time "interacting" rather than working. If an big fraction of time time is used for "problems of human relations", on feuds and frictions, on jurisdictional disputes and questions of cooperation, and so on, then the work force is almost certainly too large. People get into each others ways.
+
+3. Malorganization
+
+It's symptoms is an excess of meetings.
