@@ -217,6 +217,13 @@ Nothing exciting happens in it because the crises have been anticipated and have
 
 A work force may, indeed, be too small for the task. And the work suffers, if it gets done at all. But this is not the rule. Much more common is the work force that is too big for effectiveness, the work force that spends, therefore, an increasing amount of its time "interacting" rather than working. If an big fraction of time time is used for "problems of human relations", on feuds and frictions, on jurisdictional disputes and questions of cooperation, and so on, then the work force is almost certainly too large. People get into each others ways.
 
-3. Malorganization
+3. Malorganization - Excess of Meetings
 
-It's symptoms is an excess of meetings.
+It's symptoms is an excess of meetings. There will always be more than enough meetings.
+But if a executives spend more than a fairly small part of their time in meetings, it is sure sign of malorganization.
+Every meeting generates a hoft of little follow up meetings – some formal, some informal, but both stretching out for hours.
+An undirected meeting is not just a nuisance; it is danger.
+Meetings have to be the execption rather than the rule (Kontroverse zu Scrum????)
+Exceptions are special organs whose purpose is to meet. The board of directors.
+
+4. Malfunction in information
