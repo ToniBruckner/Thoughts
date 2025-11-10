@@ -181,7 +181,6 @@ Many people keep such a log continuously and review it regularly every month. At
 
 Time utilization improves with practice. But only **constant** efforts in time management can prevent one from drifting and wasting time on trivialities.
 
-
 #### Systematic Time Management – Find the Time Thieves - Time Diagnosis
 
 One hasto find the nonproductive, time-wasting activities and get rid of them if one possibly can.
@@ -227,3 +226,24 @@ Meetings have to be the execption rather than the rule (Kontroverse zu Scrum????
 Exceptions are special organs whose purpose is to meet. The board of directors.
 
 4. Malfunction in information
+
+In many organizations, time is not lost because of a lack of work, but because of poor information — it arrives too late, is incomplete, or is presented in the wrong form. Effective communication and proper information structures are therefore essential for efficient work. (e.g. information does not get to the places where it is needed, is not prepared in a way people need it, e.g. averages).
+
+#### Consolidating "Discretionary Time"
+
+The one who records and analyzes his time and then attempts to manage it can determine how much he has for his important tasks.
+
+How much time is there that is "discretionary", that is the time which is available for the big tasks that will really make a **contribution**.
+
+A manager of a big bank always made his meeetings for 1,5h. 
+- Asked why, he answered "because i have found out that my attention span is about an hour and a half. If i work on any topic longer that that, i start to repeat myself. At the same time, I have realized that nothing of importnace can really be tackled in much less time. One does not get to the point where one understands what one is talking about.
+- And furthermore he said: "My sescretary has strict instructions not to put anyone through except the President of the United states and his wife.
+- Later on he has half an hour to return every call and read every message. Anmerkung: Er braucht auch Pausen.
+
+Senior Executives rarely have as much as one quarter of their time truly at their disposal and available for the important matters, they are being paid for.
+
+- You have to consolidate discretionary time.
+- You know that you need large chunks of time ant that small driblets are no time at all.
+- One quarter, is usally engough to get important things done.
+- But even three quarters of the working day are useless if they are only available as fifteen hours here or half an hour there.
+--> The final step in time management is therefore to consolidate the time that is available visible through record and analysis and under the executive's control.
