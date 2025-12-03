@@ -255,5 +255,7 @@ All effective ones control their time management perpetually. The not only keep 
 
 Time is the scarcest resource, and unless it is managed, nothing else can be managed. The analysis of one's time, moreover, is the one easily accessible and yet systematic way to analyze one's work and to think through what really matters in it.
 
+![know thy time](./images/know-thy-time.png)
+
 "Know Thyself" the old prescription for wisdom, is almost impossibly difficult for mortal men.
 But everyone can follow the injunction **"Know Thy Time"** if he wants to, and be well on the road to contribution and effectiveness.
