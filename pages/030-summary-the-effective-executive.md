@@ -238,7 +238,7 @@ Senior Executives rarely have as much as one quarter of their time truly at thei
 
 - You have to consolidate discretionary time.
 - You know that you need large chunks of time ant that small driblets are no time at all.
-- One quarter, is usually enough to get important things done.
+- One quarter of the working day, is usually enough to get important things done.
 - But even three quarters of the working day are useless if they are only available as fifteen hours here or half an hour there.
 
 The final step in time management is therefore to consolidate the time that is available visible through record and analysis and under the executive's control.
