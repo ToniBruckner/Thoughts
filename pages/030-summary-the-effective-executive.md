@@ -259,3 +259,42 @@ Time is the scarcest resource, and unless it is managed, nothing else can be man
 
 "Know Thyself" the old prescription for wisdom, is almost impossibly difficult for mortal men.
 But everyone can follow the injunction **"Know Thy Time"** if he wants to, and be well on the road to contribution and effectiveness.
+
+## 3. What Can I Contribute
+
+The focus on contribution is the key to effectiveness; in a man's own work — its content, its level, its standards, and its impacts; in his relations with others — his superiors, his associates, his subordinates; in his use of the tools of the executive such as meetings and reports.
+
+Don't be occupied with efforts, be occupied with results.
+
+The man who focuses on efforts and who stresses his downward authority is a subordinate no matter how exalted his title and rank. **But the man who focuses on contribution and who takes responsibility for results, no matter how junior, is in the most literal sense of the phrase, "top management." He holds himself accountable for the performance of the whole.**
+
+### 3.1 The Executive's own Commitment
+
+The focus on contribution turns the attention away from his own speciality, his narrow skills, his own department, and toward the performance of the whole. **It turns his attention to the outside, the only place where there are results.** </br>
+He will think in terms of the customer, the client or the patient. </br>
+*As a result, what he does and how he does it will be materially different.* </br>
+
+To ask, "What can I contribute?" is to look for the unused potential in the job. And what is considered excellent performance in a good  many positions is often but a pale shadow of the job's full potential of contribution.</br></br>
+Every organization needs performance in three major areas:
+- it needs direct results
+- it needs building of values and their reaffirmation
+- it needs building and developing people for tomorrow
+
+If deprived of performance in any of these areas it will decay and die.
+
+The most common cause of executive failure is the inability or unwillingness to change with the demands of a new position. The executive who keeps on doing what he has done successfully before he moved is almost bound to fail.</br>
+Better think what do i have to do that makes a real difference for the company, a real significant contribution.
+
+### 3.2 How To Make The Specialist Effective
+
+The task is to enable specialists to male himself and his specialty effective. This means that he must think through who is to use his output and what the user needs to know and to understand to be able to make productive the fragment the specialist produces.
+
+Ask others:
+- What contribution from me do you require to make your contribution to the organization?
+- When do you need this, how do you need it, and in what form?
+
+The only meaningful definition of a "generalist" is a specialist who can relate his own small area to the universe of knowledge. MAybe a few people have knowledge in more than a few small areas. But that does not make the generalists; it makes them specialists in several areas.
+A specialist has to learn enough of the needs, the directions, the limitations, and the perceptions of others to enable them to use his own work.
+
+### 3.3 The Right Human Relations
+
