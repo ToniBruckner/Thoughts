@@ -298,3 +298,7 @@ A specialist has to learn enough of the needs, the directions, the limitations, 
 
 ### 3.3 The Right Human Relations
 
+
+Executives in a
+
+
