@@ -299,6 +299,16 @@ A specialist has to learn enough of the needs, the directions, the limitations, 
 ### 3.3 The Right Human Relations
 
 
-Executives in a
+Executives don't have good human relations because they have a "talent for people", they have good relations because they focus on contribution in their own work and in their relationships with others. As a result, their relationships are productive-and this is the only valid definition of good "good human relations. Warm feelings and pleasant words, are indeed a false front for wretched attitudes, if there is no achievement in what is, after all, a work focused and task focused relationship. on the other hand, an occasional rough word will not disturb a relationship that produces results and accomplishments for all concerned.
+
+the focus in contribution by itself supplies the for basic requirements of effective human relations:
+- communications 
+- teamwork 
+- self development 
+- and development of others
+
+Communikations downward from management to the employee, from the superior to the subordinate are practically impossible if they are based on a downward relationship.
+The harder das superior ist trying to say something to his subordinate, the more likely is it that that the subordinate will mishear. He will hear what he expects to hear rather than what is being said.
+
 
 
