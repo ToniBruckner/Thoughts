@@ -278,6 +278,7 @@ He will think in terms of the customer, the client or the patient. </br>
 
 To ask, "What can I contribute?" is to look for the unused potential in the job. And what is considered excellent performance in a good  many positions is often but a pale shadow of the job's full potential of contribution.</br></br>
 Every organization needs performance in three major areas:
+
 - it needs direct results
 - it needs building of values and their reaffirmation
 - it needs building and developing people for tomorrow
@@ -292,6 +293,7 @@ Better think what do i have to do that makes a real difference for the company, 
 The task is to enable specialists to male himself and his specialty effective. This means that he must think through who is to use his output and what the user needs to know and to understand to be able to make productive the fragment the specialist produces.
 
 Ask others:
+
 - What contribution from me do you require to make your contribution to the organization?
 - When do you need this, how do you need it, and in what form?
 
@@ -310,6 +312,7 @@ the focus in contribution by itself supplies the for basic requirements of effec
 - and development of others
 
 #### 3.3.1 Communications
+
 Communications downward from management to the employee, from the superior to the subordinate are practically impossible if they are based on a downward relationship.
 The harder das superior ist trying to say something to his subordinate, the more likely is it that that the subordinate will mishear. He will rather hear what he expects to hear rather than what is being said.
 
@@ -324,7 +327,8 @@ In knowledge work, communication is becoming crucial due to the computer revolut
 
 #### 3.3.3 Individual self-developments depends on the focus on contributions
 
-The man who asks of himself, *"What is the most important contribution I can make to the performance of this organization?"* is in effect asking:  
+The man who asks of himself, *"What is the most important contribution I can make to the performance of this organization?"* is in effect asking:
+
 - What self-development do I need?  
 - What knowledge and skill do I have to acquire to make the contribution I should be making?  
 - What strengths do I have to put to work?  
@@ -341,6 +345,8 @@ One obvious but often overlooked rule is that you can either direct a meeting an
 Focusing on contribution helps executives cut through the confusion of events and identify what truly matters. By emphasizing relevance and turning the inherent dependence on others into a strength, it creates a team mindset. Ultimately, focusing on contribution shifts attention outward to organizational results and external needs, thus enhancing overall effectiveness.
 
 ## 4 Making Strength Productive
+
+![make strength productive](./images/make-strength-productive.png)
 
 The executive makes strength productive. He knows that one cannot build on weakness. **To achieve results, one has to use all the available strengths**, the strengths of associates, the strengths of the superior, and one's own strengths. These strengths are the true opportunities. To make strength productive is the unique purpose of organization. It cannot, of course, overcome the weaknesses with which each of us is abundantly endowed, but it can make them irrelevant. Its task is to use the strength of each man as a building block for joint performance.
 
@@ -417,7 +423,7 @@ If your superior is a talker, neither long reports nor polished presentations wi
 
 This fits Drucker’s larger point: effectiveness comes from adapting to **how people process information**, not from insisting on one “correct” mode of communication.
 
-### Making Strength Productive
+### 4.2.3 Making Strength Productive
 
 Only strength produces results.
 
