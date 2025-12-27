@@ -262,6 +262,8 @@ But everyone can follow the injunction **"Know Thy Time"** if he wants to, and b
 
 ## 3. What Can I Contribute
 
+![contribution](./images/contribution.png)
+
 The focus on contribution is the key to effectiveness; in a man's own work — its content, its level, its standards, and its impacts; in his relations with others — his superiors, his associates, his subordinates; in his use of the tools of the executive such as meetings and reports.
 
 Don't be occupied with efforts, be occupied with results.
@@ -337,3 +339,101 @@ We know very little about self-development, but we do know one thing: people in 
 Effective executives know what they expect to gain from a meeting, report, or presentation, and they define the purpose clearly in advance. They ask: *Why are we having this meeting? Do we want a decision, to inform, or to clarify our direction?* They insist that the purpose be defined before any meeting is called, any report requested, or any presentation organized. In short, they ensure that each meeting directly serves a meaningful contribution.
 One obvious but often overlooked rule is that you can either direct a meeting and listen for important points, or you can participate and speak—you cannot do both. But the cardinal rule is to focus it from the start on contribution.
 Focusing on contribution helps executives cut through the confusion of events and identify what truly matters. By emphasizing relevance and turning the inherent dependence on others into a strength, it creates a team mindset. Ultimately, focusing on contribution shifts attention outward to organizational results and external needs, thus enhancing overall effectiveness.
+
+## 4 Making Strength Productive
+
+The executive makes strength productive. He knows that one cannot build on weakness. **To achieve results, one has to use all the available strengths**, the strengths of associates, the strengths of the superior, and one's own strengths. These strengths are the true opportunities. To make strength productive is the unique purpose of organization. It cannot, of course, overcome the weaknesses with which each of us is abundantly endowed, but it can make them irrelevant. Its task is to use the strength of each man as a building block for joint performance.
+
+### 4.1 Staffing From Strength
+
+Whoever tries to place a man or staff an organization to avoid weaknesses will end up at best with mediocrity. The idea that there are well-rounded people, people who have only strengths and no weaknesses—whether the term used is the whole man, the major personality, the well-adjusted personality, or the generalist—is a prescription for mediocrity, if not for incompetence. Strong people always have strong weaknesses too. Where there are peaks, there are valleys. And no one is strong in many areas. Measured against the universe of human knowledge, experience, and abilities, even the greatest genius would have to be rated a total failure. There is no such thing as a good man. "Good for what?" is the question. </br>
+**Lack of weaknesses isn't strength. Avoiding weakness will bring you mediocrity.**
+
+Effective executives never ask, "How does he get along with me?" The question is, "What does he contribute?" The question is never, "What can a man not do?" The question is always, "What can he do uncommonly well?" In staffing, they look for excellence in one major area and not for performance that just gets by all around.
+
+Basically, people who truly excel in many different fields at once are incredibly rare. We often think of a "universal genius," but in reality, even the greats like Leonardo da Vinci or Goethe only truly stood out in one area despite having many interests. If we only remembered Goethe for his scientific work and not his poetry, he wouldn't be as renowned. And what’s true for these giants is true for the rest of us as well.
+
+The very strong individuals don't really need an organization; they thrive on their own. Most of us, however, aren't that exceptionally strong, so we can't just rely on individual talent alone. As the saying goes, you can't hire just a hand—the whole person, with all their weaknesses, comes with it. Similarly, none of us can be only strong; weaknesses are always part of the package. The key is to structure the organization so that weaknesses become irrelevant and strengths are what really matter.
+
+Insisting on impersonal, objective job roles is vital because it allows an organization to embrace a diversity of personalities and perspectives. By focusing on tasks and objective criteria, you avoid favoritism and ensure that decisions are made based on what is right rather than who is right. This structure helps maintain fairness and encourages the kind of diversity and dissent needed for good decision-making, rather than simply asking whether someone is likable. Without this approach, the organization risks losing its best people and stifling true progress.
+
+Effective executives staff for strength by designing **doable, well-structured jobs**, not roles tailored to personalities. They redesign any job that repeatedly defeats capable people, recognizing that organizations exist to help ordinary people achieve extraordinary results.
+
+They make jobs **big and demanding** so strengths can fully express themselves and adapt as conditions change—especially critical for young knowledge workers, whose first roles should test both their abilities and organizational fit.
+
+Staffing decisions begin with **what a person can do**, not abstract job requirements. Performance, not “potential” or weakness-focused appraisals, is the only reliable measure. Effective appraisal focuses on past contributions, future strengths, learning needs, and character—integrity being the one non-negotiable requirement.
+
+Executives accept that **strengths come with weaknesses** and tolerate irrelevant flaws while removing people who consistently fail to perform. They staff **opportunities, not problems**, reject the myth of the “indispensable man,” and always promote the best-qualified performer.
+
+Ultimately, making strengths productive is not just a management technique but a **moral responsibility**. Organizations must serve individuals by enabling them to achieve through their strengths, which is essential in a complex, diverse, knowledge-based economy.
+
+Effective executives staff for strength by first ensuring jobs are **humanly doable**. Any role that defeats several capable people must be redesigned, not filled with “genius.” Jobs should be **large and demanding**, allowing strengths to surface, adapt to change, and be tested—especially in early knowledge-work roles, where performance (not promise) is the only real measure.
+
+Staffing starts with **what a person can do**, not with abstract job requirements. This requires a fundamentally different **appraisal procedure**, focused on strengths and performance rather than weaknesses or vague “potential.” Effective appraisals ask four questions:  
+a. *What has the person done well?*  
+b. *What is the person therefore likely to do well?*  
+c. *What must the person learn to fully use their strengths?*  
+d. *Would I want my son or daughter to work for this person—and why or why not?*  
+Character and integrity are the one area where weakness is a true disqualification.
+
+Effective executives accept that **strengths always come with weaknesses** and tolerate flaws that are irrelevant to performance. They reject the myth of the “indispensable man,” staff **opportunities rather than problems**, and remove consistently underperforming managers to protect both the organization and the individual.
+
+The example of General Marshall illustrates these principles in action: he consistently asked *“What can this man do?”*, redeployed talent without sentimentality, and treated staffing as disciplined judgment rather than personal preference. Marshall understood—and teaches us—that **every people decision is a gamble**, but when it is based on proven strengths and performance, it becomes at least a **rational gamble**.
+
+Ultimately, making strengths productive is not only a management necessity but a **moral obligation**. Organizations must enable individuals to achieve through their strengths in a complex, diverse, and knowledge-driven world.
+
+### 4.2 How Do I Manage My Boss
+
+Effective executives focus on making the **strengths of their superiors productive**, recognizing that their own success is closely tied to the effectiveness of their boss. This is not done through flattery or “managing up” politically, but by identifying what the superior does well and shaping one’s contribution so it can be used.
+
+Instead of trying to reform a boss or compensate for weaknesses, effective executives ask:
+- What can my boss do particularly well?
+- What has he done well in the past?
+- What does he need from me to perform effectively?
+
+A critical part of this is adapting to **how the boss works**, not what is right or important. Superiors differ fundamentally in how they absorb information:
+- **Readers** need written material before discussion; talking to them first is ineffective.
+- **Listeners** grasp issues through spoken explanation; long reports are largely wasted on them.
+- Some need brief summaries; others require detailed background.
+- Some want early involvement; others only want fully developed proposals.
+
+Understanding whether a boss is a reader or a listener—and structuring communication accordingly—is essential to making their strengths effective.
+
+Ultimately, making the boss productive means **building on strengths and making weaknesses irrelevant**, focusing on presentation, timing, and format rather than substance. Few things contribute more to an executive’s own effectiveness than enabling the superior to perform at his best. :contentReference[oaicite:0]{index=0}
+
+Yes. Drucker explicitly acknowledges a **third, much smaller group**, which can reasonably be called **“talkers.”** These are people who do not primarily process information by reading or listening, but by **talking it through**.
+
+In his words, they *“get their information through talking, and by watching … the reactions of the people they talk to.”* They think while speaking, clarify ideas in dialogue, and often need immediate feedback to understand an issue fully. For them, meaning emerges **in the act of articulation**, not before it.
+A listener absorbs a structured explanation. A talker needs interaction and often cannot fully grasp an idea until they verbalize it themselves.
+Many talkers understand written material only after they speak it—either aloud or in discussion—because speech activates their thinking process.
+Drucker notes that figures such as Franklin D. Roosevelt and Lyndon B. Johnson belonged to this category. Their effectiveness came from dialogue, probing questions, and real-time synthesis rather than documents.
+
+**Practical implication:**
+If your superior is a talker, neither long reports nor polished presentations will be sufficient on their own. What works is:
+
+* short prompts or bullet points,
+* meetings designed for dialogue,
+* allowing them to restate, question, and reshape the idea verbally.
+
+This fits Drucker’s larger point: effectiveness comes from adapting to **how people process information**, not from insisting on one “correct” mode of communication.
+
+### Making Strength Productive
+
+Only strength produces results.
+
+Effective executives focus on **making their own strengths productive** rather than dwelling on constraints, policies, or limitations. While they acknowledge limits, they refuse to use them as excuses and instead ask, *“What can I do?”*—which almost always reveals meaningful opportunities for action.
+
+They understand **how they work best**: when they are most productive, whether they write, speak, negotiate, or decide well, and whether they function better alone, in teams, under pressure, or with time. These work habits—such as being a reader or listener—are not superficial but core sources of effectiveness. The effective executive accepts them and builds on them rather than trying to imitate others.
+
+Effectiveness comes from **being oneself**, identifying recurring patterns of successful performance, and choosing roles and contributions that align with one’s temperament and strengths. Knowledge and talent matter, but temperament and work style are equally decisive.
+
+This strength-based mindset is both a **practice and an attitude**. By consistently asking of others—and of oneself—*“What can this person do?”* executives learn to feed opportunities and starve problems. Weaknesses produce little beyond friction; only strengths produce results.
+
+Leaders set the standard for performance. High-performing leaders raise the performance of everyone else, just as breakthroughs in sports raise expectations for all competitors. Therefore, executives place their strongest people in **standard-setting roles**, focusing on one decisive strength and treating weaknesses as irrelevant unless they block performance.
+
+Ultimately, the executive’s task is not to change people, but to **multiply performance** by putting existing strengths, aspirations, and capabilities to work.
+
+Unlike everything else discussed in this book so far, making strength productive is as much an attitude as it is a practice. But it can be improved with practice. If one disciplines oneself to ask about one’s associates—subordinates as well as superiors—“What can this man do?” rather than “What can he not do?” one soon
+will acquire the attitude of looking for strength and of using strength. Andeventually one will learn to ask this question of oneself.
+
+In every area of effectiveness within an organization, one **feeds the opportunities and starves the problems.** Nowhere is this more important than in respect to people. The effective executive looks upon people including himself as an opportunity. He knows that only strength produces results. Weakness only produces headaches—and the absence of weakness produces nothing. He knows, moreover, that the standard of any human group is set by the performance of the leaders. And he, therefore, never allows leadership performance to be based on anything but true strength.
