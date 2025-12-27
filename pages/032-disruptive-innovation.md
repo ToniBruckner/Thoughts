@@ -3,8 +3,34 @@ This is a summary of a lecture from Clayton M. Christensen in Oxford </br>
 
 # Disruptive Innovation
 
-## Basis ist das Innovator’s Dilemma:
-Erfolgreiche Unternehmen handeln rational, kundenorientiert und profitgetrieben – und werden genau deshalb von disruptiven Innovationen verdrängt, die in niedrigmargigen oder neuen Märkten beginnen und sich schrittweise nach oben bewegen.
+Basis ist das Innovator’s Dilemma. Erfolgreiche Unternehmen handeln rational, kundenorientiert und profitgetrieben – und werden genau deshalb von disruptiven Innovationen verdrängt, die in niedrigmargigen oder neuen Märkten beginnen und sich schrittweise nach oben bewegen.
+
+## Was ist das Innovator’s Dilemma?
+
+Das Innovator’s Dilemma beschreibt das Paradox, dass gut geführte, erfolgreiche Unternehmen genau wegen ihres professionellen Managements scheitern können, wenn disruptive Innovationen auftreten.
+
+Christensen hat dieses Konzept systematisch ausgearbeitet in seinem Buch The Innovator’s Dilemma.
+
+### Das Dilemma im Kern
+
+Unternehmen handeln rational, datengetrieben und kundenorientiert – und verlieren trotzdem.
+
+Warum?
+
+- Sie hören auf ihre besten Kunden
+→ Diese verlangen leistungsstärkere, komplexere, teurere Produkte.
+- Sie investieren dort, wo die Margen hoch sind
+→ Ressourcen fließen in „Up-Market“- und Premiumsegmente.
+- Disruptive Innovationen starten unten oder außerhalb des Marktes
+→ Schlechtere Leistung, niedrigere Preise, andere Kundengruppen.
+- Disruption lohnt sich anfangs finanziell nicht
+→ Kleine Märkte, geringe Margen, schlechte Kennzahlen (IRR, RONA).
+- Wenn Disruption „gut genug“ wird, ist es zu spät
+→ Der neue Anbieter ist skaliert, kostengünstig, marktbeherrschend.
+
+**Das Dilemma**: Wenn Manager richtig handeln (aus heutiger Sicht), handeln sie falsch (für die Zukunft).
+
+### Innovationen
 
 Christensen erweitert dieses Unternehmensmodell zu einer Theorie von Wachstum und Wohlstand. Er unterscheidet drei Arten von Innovation:
 
