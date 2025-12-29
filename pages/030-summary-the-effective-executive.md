@@ -95,7 +95,7 @@ They work systematically at managing the little of their time that can be brough
 4. **Effective Executives concentrate on a few major areas where superior performance will produce outstanding results.**<br> They force themselves on the few major areals where superior performance will produce outstanding results. The force themselves to set priorities and stay with those priority decisions. They know that they have no choice but to do first things first––and second things not at all. **The alternative is to get nothing done.**
 5. **Effective Executives make effective decisions.**</br> They know that this is, above all, a matter of system––of the right steps in the right sequence. They know that an effective decision is always a judgement based on "dissending(abweichend) opinions" rather than "consensus on the facts". And they know that to make many decisions fast means to make the wrong decisions. What is needed are few, but fundamental, decisions What is needed is the right strategy rather than razzle-dazzle tactics.
 
-## 2. Know your Time
+## 2. Know Your Time
 
 Most people think you should plan your work. Unfortunately, the plans always remain on paper, always remain good intentions. The rarely become achievements. This becomes frustrating.
 
@@ -344,7 +344,7 @@ Effective executives know what they expect to gain from a meeting, report, or pr
 One obvious but often overlooked rule is that you can either direct a meeting and listen for important points, or you can participate and speak—you cannot do both. But the cardinal rule is to focus it from the start on contribution.
 Focusing on contribution helps executives cut through the confusion of events and identify what truly matters. By emphasizing relevance and turning the inherent dependence on others into a strength, it creates a team mindset. Ultimately, focusing on contribution shifts attention outward to organizational results and external needs, thus enhancing overall effectiveness.
 
-## 4 Making Strength Productive
+## 4. Making Strength Productive
 
 ![make strength productive](./images/make-strength-productive.png)
 
@@ -393,11 +393,13 @@ Ultimately, making strengths productive is not only a management necessity but a
 Effective executives focus on making the **strengths of their superiors productive**, recognizing that their own success is closely tied to the effectiveness of their boss. This is not done through flattery or “managing up” politically, but by identifying what the superior does well and shaping one’s contribution so it can be used.
 
 Instead of trying to reform a boss or compensate for weaknesses, effective executives ask:
+
 - What can my boss do particularly well?
 - What has he done well in the past?
 - What does he need from me to perform effectively?
 
 A critical part of this is adapting to **how the boss works**, not what is right or important. Superiors differ fundamentally in how they absorb information:
+
 - **Readers** need written material before discussion; talking to them first is ineffective.
 - **Listeners** grasp issues through spoken explanation; long reports are largely wasted on them.
 - Some need brief summaries; others require detailed background.
@@ -417,9 +419,9 @@ Drucker notes that figures such as Franklin D. Roosevelt and Lyndon B. Johnson b
 **Practical implication:**
 If your superior is a talker, neither long reports nor polished presentations will be sufficient on their own. What works is:
 
-* short prompts or bullet points,
-* meetings designed for dialogue,
-* allowing them to restate, question, and reshape the idea verbally.
+- short prompts or bullet points,
+- meetings designed for dialogue,
+- allowing them to restate, question, and reshape the idea verbally.
 
 This fits Drucker’s larger point: effectiveness comes from adapting to **how people process information**, not from insisting on one “correct” mode of communication.
 
@@ -443,3 +445,96 @@ Unlike everything else discussed in this book so far, making strength productive
 will acquire the attitude of looking for strength and of using strength. Andeventually one will learn to ask this question of oneself.
 
 In every area of effectiveness within an organization, one **feeds the opportunities and starves the problems.** Nowhere is this more important than in respect to people. The effective executive looks upon people including himself as an opportunity. He knows that only strength produces results. Weakness only produces headaches—and the absence of weakness produces nothing. He knows, moreover, that the standard of any human group is set by the performance of the leaders. And he, therefore, never allows leadership performance to be based on anything but true strength.
+
+## 5. First Things First
+
+![first things first](./images/first-things-first.png)
+
+If there is any one **"secret"** of effectiveness, it is concentration. Effective executives **do first things first** and they do **one thing at a time**.
+
+There are always more important contributions to be made than there is time available to make them. No matter how well an executive manages his time, the greater part of it will still not be his own. Therefore there is always a time deficit.
+
+Yet to get even that half-day or those two weeks of really productive time requires self-discipline an an iron determination to say "No".
+
+> Anmerkung zu „Nein“ und Freiheit
+> 
+> Drucker argumentiert **nicht psychologisch**, sondern **systemisch**.
+> 
+> Mit „self-discipline“ und „iron determination“ meint er **keine dauerhafte Selbstüberwindung** oder moralische > Härte. Das wäre für ihn ineffizient.
+> Gemeint ist die Fähigkeit, **punktuell und konsequent „Nein“ zu sagen**.
+> 
+> 
+> Dieses „Nein“ richtet sich **nicht nach innen**, sondern nach außen:
+> 
+> * gegen Unterbrechungen
+> * gegen fremde Prioritäten
+> * gegen den automatischen Zugriff anderer auf die eigene Zeit
+> 
+> Der Hintergrund ist **strukturelle Unfreiheit**:
+> Ohne aktives „Nein“ wird Zeit standardmäßig von außen verbraucht.
+> Produktive Zeit entsteht nicht von selbst, sie ist **kein Normalzustand**, sondern muss geschützt werden.
+> 
+> In diesem Sinne bedeutet Freiheit bei Drucker:
+> 
+> > **Verfügungsgewalt über die eigene Zeitstruktur**,
+> > nicht über Gefühle oder Motivation, sondern über Zugriffspunkte.
+> 
+> Die „iron determination“ ist nötig, weil:
+> 
+> * die Umwelt permanent unterbricht,
+> * Organisationen Fokus nicht respektieren,
+> * Unterbrechung der Default ist.
+> 
+> Das „Nein“ ist daher **selten, hart, aber gezielt** –
+> bewusste Aktivität, um Struktur zu schaffen.
+> 
+> Der Kern:
+> 
+> > Freiheit heißt bei Drucker nicht „tun, was man will“,
+> > sondern **seine Zeit so zu organisieren, dass das Wesentliche überhaupt möglich wird**.
+> 
+> Oder zugespitzt:
+> 
+> > Wer nicht „Nein“ sagen kann, ist zeitlich unfrei –
+> > unabhängig von Motivation oder Disziplin.
+> 
+> Selbstdisziplin ist bei Drucker **kein Dauerzustand**,
+> sondern ein **Werkzeug zur Grenzziehung**,
+> damit danach **ohne Disziplin** gearbeitet werden kann.
+> 
+> Das ist **strukturelle Freiheit**, nicht heroische Willenskraft.
+
+Concetration is dictated so that most of us find it hard to do even one thing at a time. Some work best, doing two things in paralell, thus prviding a change of pace. This presupposes however hat they give each task the minimum quantum needed to get any results.</br>
+The more one can concentrate rime, effort, and resources, the greater the number and diversity of tasks one can actually perform.
+
+The "secret" of those people "who do so may things" and apparently so many difficult things is that they do **only one thing at a time". As a result, they need much less time in the end than the rest of us.
+
+**Why Ineffective Executives Work Hard but Achieve Little?**
+
+- 1. **Systematic Underestimation of Time**</br>
+They underestimate the time for one task. They alway expect that everything will gor right but nothing ever goes right. The unexpected is actually the only one you can expect. And it is rarely pleasant. So set a fair margin for that
+- 2. Hurrying Creates Delay
+Hurrying puts the ineffective executive further behind because it **creates more work (errors and rework), destroys focus (constant switching prevents deep progress), eliminates buffers (no margin for the inevitable unexpected), and prevents completion (many tasks in motion, none finished)**; **a steady pace works because it reduces errors, preserves uninterrupted time, maintains slack (Puffer) for surprises, and allows tasks to reach completion before attention moves on.**
+- 3. Multitasking Undermines Execution
+Trying to do several things at once prevents any task from receiving sufficient uninterrupted time.  
+As a result, no task reaches completion efficiently, and if one task encounters problems, the entire schedule collapses.  
+Effective executives recognize the need for a minimum time “quantum” for each task.
+
+***Effective executives know that they have to get many things done—and done
+effectively. Therefore, they concentrate—their own time and energy as well as
+that of their organization—on doing one thing at a time, and on doing first things
+first.***
+
+## 5.1 Sloughing Off Yesterday
+
+The first rule for concentrating executive effort is to slough off the past that has ceased to be productive. Effective executives periodically review their own work programs—and those of their associates—and ask:
+
+> “If we were not already doing this, would we go into it now?”
+
+Unless the answer is an unconditional “Yes,” they drop the activity or sharply curtail it. At a minimum, they make sure that no further resources are invested in the no-longer-productive past. Crucially, first-class resources—especially the scarce resources of capable people—are immediately withdrawn from yesterday’s tasks and reassigned to the opportunities of tomorrow.
+
+**Yesterday’s actions and decisions, no matter how courageous or wise they may once have been, inevitably become today’s problems, crises, and foolishness.** Yet it is the executive’s specific responsibility—whether in business, government, or any other institution—to commit today’s resources to the future. This necessarily means that every executive must spend a substantial part of his time, energy, and ingenuity patching up or bailing out decisions of the past, whether his own or those of his predecessors. In fact, this consumes more of his working time than any other single task.
+
+An effective executive therefore systematically polices all programs, activities, and tasks. He continuously asks: “Is this still worth doing?” If it is not, he eliminates it in order to concentrate on the few tasks that, if done with excellence, will make a real difference to results. Above all, the effective executive sloughs off an old activity before starting a new one. This discipline is essential for organizational “weight control.” Without it, an organization quickly loses shape, cohesion, and manageability; social organizations, like biological organisms, must remain lean and muscular.
+
+Getting rid of total failures presents little difficulty—they liquidate themselves. Far more dangerous are yesterday’s successes, which tend to persist long after their productive life has ended. Even more damaging are activities that should succeed but do not. These easily become “investments in managerial ego” and are treated as sacred. Unless they are pruned—and pruned ruthlessly—they drain the lifeblood of the organization. It is invariably the most capable people who are wasted in the futile attempt to give such ego-investments the success they are thought to deserve.

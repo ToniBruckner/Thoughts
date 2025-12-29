@@ -43,7 +43,6 @@ verbessern bestehende Produkte für bestehende Kunden, erhöhen Leistungsfähigk
 3. Efficiencs Innovations
 liefern gleiche Leistungen billiger, eliminieren Jobs, setzen jedoch Kapital frei.
 
-
 ## Der ursprüngliche Kreislauf (funktionsfähig)
 
 Disruptive Innovationen
@@ -99,12 +98,11 @@ Nicht alles ist disruptiv!
 
 Diese Dinge werden **häufig fälschlich „disruptiv“ genannt**, sind es nach Christensen aber **nicht**:
 
-* Premium-Elektroautos → **sustaining**
-* Hochpreisige KI-Tools für Unternehmen → **sustaining**
-* Effizienzsteigerung durch Automatisierung → **Effizienzinnovation**
-* „Wir sind digitaler als vorher“ → **kein Disruptionskriterium**
-* Marktführer wird verdrängt → **Ergebnis**, nicht Definition
-
+- Premium-Elektroautos → **sustaining**
+- Hochpreisige KI-Tools für Unternehmen → **sustaining**
+- Effizienzsteigerung durch Automatisierung → **Effizienzinnovation**
+- „Wir sind digitaler als vorher“ → **kein Disruptionskriterium**
+- Marktführer wird verdrängt → **Ergebnis**, nicht Definition
 
 ### Ein präziser Merksatz (Christensen-kompatibel)
 
