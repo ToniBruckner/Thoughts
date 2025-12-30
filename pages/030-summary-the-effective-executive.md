@@ -525,7 +525,7 @@ effectively. Therefore, they concentrate—their own time and energy as well as
 that of their organization—on doing one thing at a time, and on doing first things
 first.***
 
-## 5.1 Sloughing Off Yesterday
+### 5.1 Sloughing Off Yesterday
 
 The first rule for concentrating executive effort is to slough off the past that has ceased to be productive. Effective executives periodically review their own work programs—and those of their associates—and ask:
 
@@ -538,3 +538,55 @@ Unless the answer is an unconditional “Yes,” they drop the activity or sharp
 An effective executive therefore systematically polices all programs, activities, and tasks. He continuously asks: “Is this still worth doing?” If it is not, he eliminates it in order to concentrate on the few tasks that, if done with excellence, will make a real difference to results. Above all, the effective executive sloughs off an old activity before starting a new one. This discipline is essential for organizational “weight control.” Without it, an organization quickly loses shape, cohesion, and manageability; social organizations, like biological organisms, must remain lean and muscular.
 
 Getting rid of total failures presents little difficulty—they liquidate themselves. Far more dangerous are yesterday’s successes, which tend to persist long after their productive life has ended. Even more damaging are activities that should succeed but do not. These easily become “investments in managerial ego” and are treated as sacred. Unless they are pruned—and pruned ruthlessly—they drain the lifeblood of the organization. It is invariably the most capable people who are wasted in the futile attempt to give such ego-investments the success they are thought to deserve.
+
+### 5.2 Priorities and Posteriorities
+
+There are always more productive tasks for tomorrow that there is time to do them and more opportunities than there are capable people to take care of them—not to mention the always abundant problems and crises.
+A decision therefore has to be amde as to which tasks deserve priority and which are of less importance.
+**The only question is which will make the decision—you or the pressures?**
+Somehow the tasks will be adjusted to the available time and the opportunities will become available only to the extent to which capable people are around to take charge of them.
+
+If the pressures rather than the executive are allowed to make the decision,
+the important tasks will predictably be sacrificed. Typically, there will then be
+no time for the most time-consuming part of any task, the conversion of decision
+into action. No task is completed until it has become part of organizational
+action and behavior. This almost always means that no task is completed unless
+other people have taken it on as their own, have accepted new ways of doing old
+things or the necessity for doing something new, and have otherwise made the
+executive’s “completed” project their own daily routine.
+
+Another predictable result of leaving control to of priorities to pressure is that the work of top management does not get done at all. That is always postponable work, for it does not try to solve yesterday's crises but to make a different tomorrow. And the pressure always favor yesterday.
+The pressures always favors always what happened over the opportunity.
+
+The job is, **not to set priorities**, that is easy, everbody can do it.
+
+This statement does not mean that executives should not set priorities. On the contrary, priorities must always be set. What it means is that setting priorities alone is not the real managerial challenge. The decisive task is to set posteriorities: to make an explicit decision about what will not be done, to exclude tasks and initiatives that do not deserve attention at this time, and then to consistently adhere to that decision. Without such deliberate exclusion, priorities remain declarations of intent rather than guides to action.
+
+The reason so few executives truly focus is that it is difficult to deliberately decide which tasks not to take on—and then to consistently stick to that decision.
+Most executives have learned that what one postpones, one actually abandons. A good many of them suspect that there is nothing less desirable than to take up later a project one has postponed when it first came up. The timing is almost bound to be wrong, and timing is a most important element in the success
+of any effort. To do five years later what it would have been smart to do five years earlier is almost a sure recipe for frustration and failure.
+
+A great deal could be said about the analysis of priorities. The most important thing about priorities and posteriorities is, however, not intelligent analysis but courage.
+Courage rather than analysis dictates the truly important rules for identifying priorities:
+
+- Choose the future over the past;
+- Focus on opportunity rather than on problem;
+- Choose your own direction instead of following the crowd; and
+- Aim high, aim for something that will make a difference, rather than for something that is “safe” and easy to do.
+
+As a rule it is just as risky, just as burdensome, and just as uncertain to do something small that is new as it is to do something big that is new.
+It is more productive to convert an opportunity into results than to solve a problem—which only restores the equilibrium of yesterday.
+
+- Priorities and posteriorities always have to be reconsidered and revised
+in the light of realities.
+
+The effective executive does not, in other words, truly commit himself
+beyond the one task he concentrates on right now. Then he reviews the situation
+and picks the next one task that now comes first.
+
+Concentration (Fokussierung) —that is, the courage to impose on time and events his own
+decision as to what really matters and comes first—is the executive’s only hope
+of becoming the master of time and events instead of their whipping boy.
+
+Fokussierung – also der Mut, Zeit und Ereignissen die eigene Entscheidung darüber aufzuerlegen, was wirklich zählt und Vorrang hat – ist die einzige Hoffnung der Führungskraft, Herr über Zeit und Ereignisse zu werden, statt von ihnen getrieben zu sein.
+
