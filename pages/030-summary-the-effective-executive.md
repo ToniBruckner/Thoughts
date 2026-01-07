@@ -83,16 +83,16 @@ But practices are always *exceedingly hard to do well*. The have to be acquired,
 **Practices one learns by practicing and practicing and practicing again.**
 
 If you learn Piano you probably won't be able to play Mozart like Arthur Schnabel did, but there is no reason in the world why you should not be able to play the scales like Schnabel did.
-In other words there is no reason why anyone in the world should not be abke to acquire competence in any practice. Mastery might well elude him; for this one might need special talent.<br>
+In other words there is no reason why anyone in the world should not be able to acquire competence in any practice. Mastery might well elude him; for this one might need special talent.</br>
 But what is needed in effectiveness is competence, not mastery. What is needed are "the scales"!
 
-There are essentially five practices, five such habits of the mind that have to be aquired to become an effective executive.
+There are essentially five practices, five such habits of the mind that have to be acquired to become an effective executive.
 
-1. **Effective Executives know where their time goes**.<br>
+1. **Effective Executives know where their time goes**.</br>
 They work systematically at managing the little of their time that can be brought under their control. 
-2. **Effective Executives focus on outward contribution**.<br> They streamline there efforts to results, rather than to work. The start with the question "What results are expected of me?" rather than with the work to be done or the techniques to be applied.
-3. **Effective Executives build on their strengths**.<br> Their own strengths, the strengths of their superiors, colleagues, subordinates, an on the strenght is the situation, that is, on what they can do. They do not build on weaknesses. They don't start out with the things they cannot do.
-4. **Effective Executives concentrate on a few major areas where superior performance will produce outstanding results.**<br> They force themselves on the few major areals where superior performance will produce outstanding results. The force themselves to set priorities and stay with those priority decisions. They know that they have no choice but to do first things first––and second things not at all. **The alternative is to get nothing done.**
+2. **Effective Executives focus on outward contribution**.</br> They streamline there efforts to results, rather than to work. The start with the question "What results are expected of me?" rather than with the work to be done or the techniques to be applied.
+3. **Effective Executives build on their strengths**.</br> Their own strengths, the strengths of their superiors, colleagues, subordinates, an on the strenght is the situation, that is, on what they can do. They do not build on weaknesses. They don't start out with the things they cannot do.
+4. **Effective Executives concentrate on a few major areas where superior performance will produce outstanding results.**</br> They force themselves on the few major areals where superior performance will produce outstanding results. The force themselves to set priorities and stay with those priority decisions. They know that they have no choice but to do first things first––and second things not at all. **The alternative is to get nothing done.**
 5. **Effective Executives make effective decisions.**</br> They know that this is, above all, a matter of system––of the right steps in the right sequence. They know that an effective decision is always a judgement based on "dissending(abweichend) opinions" rather than "consensus on the facts". And they know that to make many decisions fast means to make the wrong decisions. What is needed are few, but fundamental, decisions What is needed is the right strategy rather than razzle-dazzle tactics.
 
 ## 2. Know Your Time
@@ -136,7 +136,7 @@ The effective executive therefore knows that to manage his time, he first has to
 ### 2.1 Large Chunks of time instead of Time Wasters
 
 in every executive job, a large part of the time must therefore be wasted on things which, though they apparently have to be done, contribute nothing or little.
-The higher up in the organization hie is, the more demands on his time will the organization make.<br>
+The higher up in the organization hie is, the more demands on his time will the organization make.</br>
 
 Yet most of the tasks of the executive require, for minimum effectiveness, a fairly large quantum of time. To spend in one stretch less than his minimum is sheer waste.
 → **One accomplishes nothing and has to begin all over again.**</br>
@@ -186,14 +186,10 @@ One has to find the nonproductive, time-wasting activities and get rid of them i
 
 1. Try to identify and eliminate the things that need not be done at all. Those are purely a waste of time without any results.
 Look at the time record and ask for every activity: **What would happen if this were not done at all?** If the answer is "Nothing would had happen", then obviously the conclusion is to stop doing it.
-
 2. Delegation: **"Which of the activities on my time log could be done by somebody else just as well, if ot better?"**
-
-There is a lot of work which easily can be done be down by others and therefore should be done by others. 
+There is a lot of work which easily can be done be down by others and therefore should be done by others.
 "Delegation" as the term is customarily used, is a misunderstanding––is indeed misdirection. But getting rid of anything that can be done by somebody else so that one does not have to delegate but can really get to one's own work––that is major improvement in effectivess.
-
 3. The Time of Others he himself wastes
-
 Ask others, "What do I do that wastes your time without contributing to you effectiveness?"
 The manner in which an executive does productive work may still be a major waste of somebody's else' time.
 
@@ -589,4 +585,186 @@ decision as to what really matters and comes first—is the executive’s only h
 of becoming the master of time and events instead of their whipping boy.
 
 Fokussierung – also der Mut, Zeit und Ereignissen die eigene Entscheidung darüber aufzuerlegen, was wirklich zählt und Vorrang hat – ist die einzige Hoffnung der Führungskraft, Herr über Zeit und Ereignisse zu werden, statt von ihnen getrieben zu sein.
+
+## 6. The Elements of Decision Making
+
+Decision-making is only one of an executive’s responsibilities and usually occupies only a small portion of their time. However, making decisions is the executive’s specific task.
+
+Effective executives do not make many decisions. They concentrate on the important ones. They try to think through what is strategic and generic, rather than “solve problems.” They try to make the few important decisions on the highest level of conceptual understanding.They try to find the constants in a situation. They are, therefore, not overly impressed by speed in decision-making.
+Rather they consider virtuosity in manipulating a great many variables a symptom of sloppy thinking.
+They want to know what the decision is all about and what the underlying realities are which it has to satisfy. They want impact rather than technique, they want to be sound rather than clever.
+
+> Anmerkung: Wer viele Variablen managen muss, hat das Problem nicht verstanden. Wer die Konstanten erkennt, braucht weniger Entscheidungen.
+
+Unless a decision has “degenerated into work” it is not a decision; it is at best a good intention. This means that, while the effective decision itself is based on the highest level of conceptual understanding, the action to carry it out should be as close as possible to the working level and as simple as possible.
+
+Effective decision-makers do not focus on speed or on managing many changing factors at once. Instead, they first seek to understand the **constants** in a situation—the structural realities that do not change easily, such as fundamental needs, constraints, or long-term conditions.
+
+Because of this approach, they are not impressed by rapid decision-making. Speed often signals reaction to surface-level changes rather than real understanding. Likewise, skillful handling of many **variables** (short-term data, fluctuations, exceptions, or details) is seen as a symptom of unclear or sloppy thinking, not intelligence.
+
+Drucker’s point is that when too many variables matter, the problem has not been properly defined. Good decisions simplify complexity by identifying what truly governs the situation. Once the constants are clear, many variables become irrelevant, and fewer, more stable decisions are required.
+
+In short:
+- **Constants provide structure and clarity**
+- **Too many variables indicate poor problem definition**
+- **Sound decisions come from conceptual understanding, not speed or complexity**
+
+### 6.1 Two Case Studies in Decision-Making
+
+Peter Drucker uses the cases of **Theodore Vail (Bell Telephone System)** and  
+**Alfred P. Sloan Jr. (General Motors)** to illustrate what characterizes truly
+effective executive decisions.
+
+#### Core Insight
+Effective decisions are **strategic**, not reactive. They address problems at the
+highest conceptual level, are guided by clear principles, and deliberately shape
+the future rather than adapt to short-term pressures.
+
+---
+
+### Case 1: Theodore Vail (Bell Telephone System)
+
+Vail transformed Bell into the largest and most successful private enterprise of
+its time through four long-term strategic decisions:
+
+1. **Service as the core mission**  
+   Bell defined its business as serving the public, not maximizing short-term
+   profit. Management performance was measured by service quality, not earnings.
+
+2. **Acceptance and shaping of public regulation**  
+   Vail recognized that a nationwide monopoly could survive as a private company
+   only under effective, principled public regulation. Instead of resisting
+   regulation, Bell actively worked to make it effective and fair.
+
+3. **Organized self-obsolescence through research**  
+   Bell Labs was created to make existing technologies obsolete. Research was
+   designed to disrupt the present and create the future, not to defend current
+   products.
+
+4. **Creation of a stable mass capital market**  
+   Vail designed AT&T common stock for conservative middle-class investors,
+   ensuring a steady, reliable flow of capital and avoiding speculative finance.
+
+These decisions were controversial, counter to prevailing beliefs, and focused
+on long-term viability rather than immediate advantage.
+
+---
+
+### Case 2: Alfred P. Sloan Jr. (General Motors)
+
+Sloan faced a different problem: a large company fragmented into autonomous,
+competing units.
+
+- He rejected both extremes:
+  - Total centralization, and
+  - Loose federation with no coordination.
+- Sloan reframed the issue as a **structural (constitutional) problem**, not a
+  personal power struggle.
+- His solution was **decentralization with central control**:
+  - Centralized policy and direction
+  - Decentralized operational responsibility and accountability
+
+This structure enabled scale, innovation, and managerial development over time.
+
+---
+
+### Common Characteristics of Effective Decisions
+
+Across both cases, Drucker highlights shared features:
+
+- Decisions are **conceptual and principle-based**
+- They aim at **long-term structure**, not short-term fixes
+- They **innovate** and often contradict accepted wisdom
+- They require **courage**, as they are controversial and resisted at the time
+- They shape the future instead of defending the present
+
+---
+
+#### Key Takeaway
+> Effective executive decisions are not fast reactions or clever adjustments.
+> They are courageous, strategic commitments that redefine what the organization
+> stands for and how it will compete in the future.
+
+### 6.2 The Elements Of The Decision Process
+
+1. Clear realization that the probem was generic and could only be solved throught a decision which established a rule, a principl;
+2. The definition of the boundary conditions: the specifications that any future solution will have to satisfy;
+3. Thinking through what is "right", that is, the solution which full satisfy the boundary conditions *before* atention is given to the compormises, adaptions, and concessions needed to make the decision acceptable;
+4. The building into the decision of the action to carry it out; A decision is not a decision unless it has been turned into work.
+5. The "feedback which tests the validity and effectiveness of the decision against the actual course of events.
+
+In Detail:
+
+1. Is this something that uderlies a great many occurences or is it a unique event that has to be dealt with as such? The generic hast alway to be answered through a rule, a principle. The exceptional can only be handled as it comes.
+But there are not only *"two"* different type of occurences, there are *"four"*.
+    1. **True Generic**: There is first the truly generic of which the individual occurrence is only a
+symptom. These root causes often become visible only when problems are analyzed collectively over time. Focusing on individual fixes wastes effort unless the underlying situation is addressed. e.g. 
+        - Inventory: Repeated stock shortages are treated as ordering errors, but the root cause is a flawed forecasting model.
+        - Production: Frequent equipment repairs appear as isolated faults, but analysis shows the machinery is operating beyond its designed capacity.
+        - IT operations: Recurring system outages are fixed individually, but the real issue is outdated infrastructure.
+        - Customer service: Many complaints are handled case by case, while the underlying cause is an unclear or inconsistent process.
+        - HR: High turnover is blamed on individual managers, but the root cause is a misaligned incentive or workload structure.
+    2. **Unique Event but Generic**: Then there is the problem which, while a unique event for the individual
+institution, is actually generic. E.g. a merger offer is a one-time event for a company, but a recurring situation in general. Deciding whether to accept it requires general rules based on others’ experience.
+institution, is actually generic.
+        - Financing a startup: One time event for a company, but done a million times.
+        - CEO succession: Rare for one firm, common across companies; decisions should follow established principles.
+        - Plant closure: Unique internally, but a frequent managerial situation; requires general rules, not ad-hoc judgment.
+        - Market exit: A one-time choice for management, yet a recurring business pattern; best guided by prior cases.
+        - Major litigation settlement: Nonrecurrent for the firm, generic in practice; decisions benefit from external experience.
+        - Large acquisition: Unlikely to repeat for one company, but common overall; requires rule-based evaluation.
+    3. **The Truly Unique Event**: This is truly exceptional. You have to ask, is this a true exception or only the first manifestation of a new genus (a new, recurring type of problem or situation?). They are very rare.
+        - 1965 Northeast blackout: Initially described as a truly exceptional, near-impossible event.
+        - Thalidomide tragedy: Also presented as an extremely unlikely, one-off occurrence.
+        - Official claim: Both were said to have probabilities so low as to make recurrence virtually impossible.
+    4. **Early Manifestation of a new generic problem**: We know now, for instance, that both the northeastern power failure and the thalidomide tragedy were only the first occurrences of what, under conditions of modern power technology or of modern pharmacology, are likely to become fairly frequent malfunctions unless generic solutions are found. So actually the above truly unique event aren't unique the rather belong to here.
+
+    All, except the truly unique event require a a **generic solution**. The require a rule , a policy, a principle.
+    The effective decision-maker spends time to determine with shich of these four situations he is dealing.
+
+</br>**&rarr; He knows he will make the wrong decision if he classifies the situation wrongly.**
+
+- **Mistake 1**: Treat a generic situation as if it were a series of unique events; (most common mistake). Managers react case by case without developing a general understanding or rule. Core mistake: Managers react case by case without developing a general understanding or rule.
+  - Drucker’s examples:
+    - Kennedy administration (domestic and foreign policy):Problems rooted in outdated postwar assumptions were handled pragmatically, “on their merits,” instead of by redefining governing principles. Result: activity without lasting results, except in the Cuban missile crisis.
+  - Additional examples: 
+    - Chronic IT incidents: Each outage is fixed individually instead of redesigning a fragile system architecture. 
+    - Repeated compliance breaches: Each violation is handled as an isolated case rather than fixing the incentive structure.
+    - Customer churn: dividual complaints are resolved, but the underlying value proposition is never reassessed.
+
+- **Mistake 2**: Treating a new event as if it were just another example of the old problem to which therefore, the old rules should be applied. Core mistake: Managers assume continuity where there is discontinuity.
+  - Drucker’s examples:
+    - 1965 Northeast blackout: Engineers applied standard overload rules, even though instruments clearly showed an abnormal situation requiring exceptional action.
+    - Counter-example (success): Cuban Missile Crisis: Kennedy treated the situation as extraordinary, abandoned routine thinking, and deliberately designed a new response framework.
+    - Additional examples:
+    - Cybersecurity breaches: Treated as routine IT failures instead of strategic threats.
+    - Early COVID-19 response: Initially handled like seasonal flu in some countries, delaying decisive action.
+    - Digital disruption: Traditional retailers applying brick-and-mortar rules to e-commerce competition.
+
+- **Mistake 3**: A plausible but erroneous definition of the fundamental problem; Core mistake: The visible symptom is mistaken for the real issue.
+
+  - Drucker’s example
+    - U.S. military medical staff retention: The problem was defined as pay, but the real issue was the structure of military medicine, which conflicted with modern, specialized medical careers.
+  - Additional examples
+    -Low employee engagement blamed on compensation: When the real issue is poor leadership or lack of purpose.
+  - Sales decline blamed on marketing spend: When the real issue is product–market misfit.
+  - Teacher shortages blamed on salaries: When the core issue is working conditions and career paths.
+
+- **Mistake 4**: An incomplete definition of the problem: Core mistake: Important variables are ignored, so solutions address only part of reality. Core mistake: Important variables are ignored, so solutions address only part of reality.
+  - Drucker’s example
+    - Automobile safety (1960s): The industry focused on safer roads and better drivers, ignoring the need to engineer cars that are safer even when used incorrectly.
+  - Additional examples
+    - Climate policy: Focusing only on emissions reduction without addressing adaptation and resilience.
+    - Healthcare cost control: Targeting provider efficiency while ignoring demand-side incentives.
+    - Traffic congestion: Building more roads without managing demand or urban design.
+
+### **Summary Table (conceptual)**
+
+- Generic treated as unique → Endless firefighting
+- New treated as old → Catastrophic escalation
+- Wrong problem defined → Ineffective remedies
+- Incomplete problem → Partial success, persistent failure
+
+**The effective decision-maker, therefore, always assumes initially that the problem is generic.He always assumes that the event that clamors for his attention is in reality a symptom. He looks for the true problem. He is not content with doctoring the symptom alone.
+symptom alone. And if the event is truly unique, the experienced decision-maker suspects that this heralds a new underlying problem and that what appears as unique will turn out to have been simply the first manifestation of a new generic situation.**
 
