@@ -695,7 +695,9 @@ Across both cases, Drucker highlights shared features:
 
 In Detail:
 
-1. Is this something that uderlies a great many occurences or is it a unique event that has to be dealt with as such? The generic hast alway to be answered through a rule, a principle. The exceptional can only be handled as it comes.
+#### 6.2.1. Generic Situation or not 
+
+Is this something that uderlies a great many occurences or is it a unique event that has to be dealt with as such? The generic hast alway to be answered through a rule, a principle. The exceptional can only be handled as it comes.
 But there are not only *"two"* different type of occurences, there are *"four"*.
     1. **True Generic**: There is first the truly generic of which the individual occurrence is only a
 symptom. These root causes often become visible only when problems are analyzed collectively over time. Focusing on individual fixes wastes effort unless the underlying situation is addressed. e.g. 
@@ -766,5 +768,15 @@ institution, is actually generic.
 - Incomplete problem → Partial success, persistent failure
 
 **The effective decision-maker, therefore, always assumes initially that the problem is generic.He always assumes that the event that clamors for his attention is in reality a symptom. He looks for the true problem. He is not content with doctoring the symptom alone.
-symptom alone. And if the event is truly unique, the experienced decision-maker suspects that this heralds a new underlying problem and that what appears as unique will turn out to have been simply the first manifestation of a new generic situation.**
+And if the event is truly unique, the experienced decision-maker suspects that this heralds a new underlying problem and that what appears as unique will turn out to have been simply the first manifestation of a new generic situation.**
 
+The effective decision maker knows he has to improvise from time to time, but he asks himself every time, **"If I had to live with this for a ling time, would I be willing to?" If the answer is "No", he keeps on working to find a more general, a more conceptual, a more comprehensive solution—one which establishes the right principle.** He does not make many decisions. He solves generic situations through a rule and policy, he can handle most events as cases under the rule; that is by adaption. Similary, an executive who makes many decisions is both lazy and ineffectual.
+He knows many solutions are mostly "dirty workarounds" and the peferct solution is almost unreachable. He finds a "third way" between the Scylla and Charybdis, so he can sail through it safely and efficently.
+
+#### 6.2.4. Boundary Conditions - What has the decision to accomplish
+
+The second major element in the decision process is a specification about what the decision has to accomplish. What are the objectives the decision has to reach? What are the minimum goals it has to attain? What are the conditions it has to satify? Those are called the **"boundary conditions"**.
+
+the more clear and concisely those boundary conditions are the greater the liklihood that the decision will indeed be effective one and will accomplish what it set out to do.
+
+"What is the minimum needed to resolve this problem?" is the form in which the boundary conditions can be probed.
