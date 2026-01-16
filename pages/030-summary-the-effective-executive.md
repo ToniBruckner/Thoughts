@@ -770,7 +770,7 @@ institution, is actually generic.
 **The effective decision-maker, therefore, always assumes initially that the problem is generic.He always assumes that the event that clamors for his attention is in reality a symptom. He looks for the true problem. He is not content with doctoring the symptom alone.
 And if the event is truly unique, the experienced decision-maker suspects that this heralds a new underlying problem and that what appears as unique will turn out to have been simply the first manifestation of a new generic situation.**
 
-The effective decision maker knows he has to improvise from time to time, but he asks himself every time, **"If I had to live with this for a ling time, would I be willing to?" If the answer is "No", he keeps on working to find a more general, a more conceptual, a more comprehensive solution—one which establishes the right principle.** He does not make many decisions. He solves generic situations through a rule and policy, he can handle most events as cases under the rule; that is by adaption. Similary, an executive who makes many decisions is both lazy and ineffectual.
+The effective decision maker knows he has to improvise from time to time, but he asks himself every time, **"If I had to live with this for a long time, would I be willing to?" If the answer is "No", he keeps on working to find a more general, a more conceptual, a more comprehensive solution—one which establishes the right principle.** He does not make many decisions. He solves generic situations through a rule and policy, he can handle most events as cases under the rule; that is by adaption. Similary, an executive who makes many decisions is both lazy and ineffectual.
 He knows many solutions are mostly "dirty workarounds" and the peferct solution is almost unreachable. He finds a "third way" between the Scylla and Charybdis, so he can sail through it safely and efficently.
 
 #### 6.2.4. Boundary Conditions - What has the decision to accomplish
@@ -780,3 +780,51 @@ The second major element in the decision process is a specification about what t
 the more clear and concisely those boundary conditions are the greater the liklihood that the decision will indeed be effective one and will accomplish what it set out to do.
 
 "What is the minimum needed to resolve this problem?" is the form in which the boundary conditions can be probed.
+
+In fact clear thngking about the boundary conditions is needed so that one knows when a decision has to be abandoned.
+
+Clear thinking about **boundary conditions** is essential because it tells the decision-maker **when a decision must be abandoned**. Boundary conditions are the **non-negotiable specifications** a decision must satisfy to be effective. When they change, or when they are mutually incompatible, the decision itself becomes invalid.
+
+Failure Through Confused Boundary Conditions: The Schlieffen Plan
+
+- The Schlieffen Plan aimed to allow Germany to fight on two fronts without splitting forces.
+- Its core boundary condition was **not to splinter German forces**: accept territorial losses in the East     emporarily in order to defeat France quickly in the West.
+- When Russian advances threatened East Prussia, political pressure led military leaders to violate this oundary     condition.
+- Instead of abandoning the plan, they modified it—weakening forces in the West without achieving victory in he     East.
+- The result was precisely what the plan sought to avoid: a prolonged war of attrition.
+- Lesson: **If a core boundary condition can no longer be met, the decision must be dropped, not diluted.**
+
+Success Through Clear Boundary Conditions: Franklin D. Roosevelt (1933)
+
+- Roosevelt initially pursued economic recovery based on fiscal conservatism and balanced budgets.
+- The banking collapse just before his inauguration changed the situation fundamentally.
+- The boundary conditions shifted: political survival and legitimacy now mattered more than economic orthodoxy.
+- Roosevelt recognized this immediately and **abandoned the original plan entirely**, replacing recovery with eform.
+- This led to a radical change in economic policy.
+- Lesson: **Effective decision-makers recognize when changed boundary conditions require a new decision altogether.**
+
+The Most Dangerous Decision: Hoping for a Miracle
+
+- The worst decisions are those that might work **only if nothing goes wrong**.
+- Such decisions often rest on **incompatible boundary conditions**, making success grossly improbable.
+- One cannot plan on miracles.
+
+Example of Incompatible Boundary Conditions: Bay of Pigs (1961)
+
+- One boundary condition: overthrow Castro.
+- Another boundary condition: avoid the appearance of U.S. intervention.
+- These conditions were compatible only if a spontaneous, island-wide uprising occurred—highly unlikely in a police state.
+- Either the invasion should have been abandoned or fully supported militarily.
+- The failure was not reliance on experts, but **failure to think through incompatible boundary conditions**.
+- Lesson: A decision that requires incompatible conditions to be met is **not a decision but a prayer for a miracle**.
+
+Core Takeaway:
+Boundary conditions are **not goals and not flexible frameworks**. A goal can be exceeded. A boundary condition cannot be missed.
+They are **hard constraints** that define whether a decision is viable at all.  
+If they cannot be met—or if they contradict each other—the only rational action is to **abandon or replace the decision**.
+
+#### 6.2.5 One has to start out with what is right rather than what is acceptable
+
+Vergiss Macht, Eitelkeit und Personenfragen – sie sind für eine gute Entscheidung irrelevant. One must start with what is right, rather than what is merely acceptable (let alone who is right), precisely because compromise is unavoidable in the end. But if one does not know what is right in terms of the specifications and boundary conditions, one cannot distinguish between a right compromise and a wrong one—and will end up making the wrong compromise.
+
+
