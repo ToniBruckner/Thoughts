@@ -825,6 +825,19 @@ If they cannot be met—or if they contradict each other—the only rational act
 
 #### 6.2.5 One has to start out with what is right rather than what is acceptable
 
-Vergiss Macht, Eitelkeit und Personenfragen – sie sind für eine gute Entscheidung irrelevant. One must start with what is right, rather than what is merely acceptable (let alone who is right), precisely because compromise is unavoidable in the end. But if one does not know what is right in terms of the specifications and boundary conditions, one cannot distinguish between a right compromise and a wrong one—and will end up making the wrong compromise.
+Vergiss Macht, Eitelkeit und Personenfragen – sie sind für eine gute Entscheidung irrelevant. One must start with **what is right**, rather than what is merely acceptable (let alone **who is right**), precisely because compromise is unavoidable in the end. Differentiate here between "what" and "who". "But if one does not know what is right in terms of the specifications and boundary conditions, one cannot distinguish between a right compromise and a wrong one—and will end up making the wrong compromise.
 
+**2 Kind of compromises** </br>
 
+For there are two different kinds of compromise. One kind is expressed in
+the old proverb: **“Half a loaf is better than no bread.”** (Der Spatz in der Hand ist besser als die Taube auf dem Dach) The other kind is expressed in the story of the Judgment of Solomon, which was clearly based on the
+realization that **“half a baby is worse than no baby at all.”** In the first instance,
+the boundary conditions are still being satisfied. The purpose of bread is to
+provide food, and half a loaf is still food. Half a baby, however, does not satisfy
+the boundary conditions. For half a baby is not half of a living and growing
+child. It is a corpse in two pieces.
+
+#### 6.2.6 Converting the decision into Action
+
+Thinking about the boundary conditions is the most difficult step. Converting into action is usually the most time consuming step. Yet a decision will not become effective unless the action commitments have been built into the decision from the start.
+</br> &rarr; **In fact no decision has been made unless carrying it out in specific steps has become someone's work assignemnt and responsibility. Until then, there are only good intentions**
