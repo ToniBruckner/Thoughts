@@ -865,3 +865,13 @@ Reports—all a president is normally able to mobilize—are not much help. All 
 
 To go and look for oneself is also the best, if not the only, way to test whether the assumptions on which a decision had been made are still valid or whether they are becoming obsolete and need to be thought through again. And one always has to expect the assumptions to become obsolete sooner or later.
 Reality never stands still very long.
+
+## 7 - Effective Decisions
+
+A decision is a judgement. It is a choice between alternatives. It is rarely a choice between right and wrong. It is at its best a choice between "almost right" and "probably wrong"—but much more often a choice between two courses of action neither of which is provably more nearly tight than the other.
+
+Don't start with the facts. Start with the opinions. Those are at the beginning nothing but untested hypotheses and worthless until tested against reality.
+To determine what is a fact requires first a decision on the criteria of relevance, especially on the appropriate measurement. This is the hinge (Scharnier) of the effective decision, and usually it's most controversal aspect.
+
+Finally, the effective decision does not flow from a consensus on the facts.
+The understanding that underlies the right decision grows out of the clash and conflict of divergent opinions and out of the serious considerations of competing alternatives.
