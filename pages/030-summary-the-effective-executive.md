@@ -773,7 +773,7 @@ And if the event is truly unique, the experienced decision-maker suspects that t
 The effective decision maker knows he has to improvise from time to time, but he asks himself every time, **"If I had to live with this for a long time, would I be willing to?" If the answer is "No", he keeps on working to find a more general, a more conceptual, a more comprehensive solution—one which establishes the right principle.** He does not make many decisions. He solves generic situations through a rule and policy, he can handle most events as cases under the rule; that is by adaption. Similary, an executive who makes many decisions is both lazy and ineffectual.
 He knows many solutions are mostly "dirty workarounds" and the peferct solution is almost unreachable. He finds a "third way" between the Scylla and Charybdis, so he can sail through it safely and efficently.
 
-#### 6.2.4. Boundary Conditions - What has the decision to accomplish
+#### 6.2.2. Boundary Conditions - What has the decision to accomplish
 
 The second major element in the decision process is a specification about what the decision has to accomplish. What are the objectives the decision has to reach? What are the minimum goals it has to attain? What are the conditions it has to satify? Those are called the **"boundary conditions"**.
 
@@ -823,7 +823,7 @@ Boundary conditions are **not goals and not flexible frameworks**. A goal can be
 They are **hard constraints** that define whether a decision is viable at all.  
 If they cannot be met—or if they contradict each other—the only rational action is to **abandon or replace the decision**.
 
-#### 6.2.5 One has to start out with what is right rather than what is acceptable
+#### 6.2.3 One has to start out with what is right rather than what is acceptable
 
 Vergiss Macht, Eitelkeit und Personenfragen – sie sind für eine gute Entscheidung irrelevant. One must start with **what is right**, rather than what is merely acceptable (let alone **who is right**), precisely because compromise is unavoidable in the end. Differentiate here between "what" and "who". "But if one does not know what is right in terms of the specifications and boundary conditions, one cannot distinguish between a right compromise and a wrong one—and will end up making the wrong compromise.
 
@@ -837,7 +837,31 @@ provide food, and half a loaf is still food. Half a baby, however, does not sati
 the boundary conditions. For half a baby is not half of a living and growing
 child. It is a corpse in two pieces.
 
-#### 6.2.6 Converting the decision into Action
+#### 6.2.4 Converting the decision into Action
 
 Thinking about the boundary conditions is the most difficult step. Converting into action is usually the most time consuming step. Yet a decision will not become effective unless the action commitments have been built into the decision from the start.
 </br> &rarr; **In fact no decision has been made unless carrying it out in specific steps has become someone's work assignemnt and responsibility. Until then, there are only good intentions**
+
+This is the problem with so many policy statements, especially of business: They contain no action commitment. To carry them out is no one's specific work and responsibility.
+
+Converting a decision into action requires answering several distinct questions:
+- Who has to know about the decision?
+- What action has to be taken?
+- Who is to take it?
+- What does the action have to be so that the people who have to do it can do it?
+
+The action must  be appropriate to the capacities of the people who have
+to carry it out.
+
+#### 6.2.5 Feedback
+
+Finally, a feedback has to be built into the decision to provide a continuous testing, against actual events, of the expectations that underlie the decision.
+Decisions are made by men. Men are fallible; at their best their works do not last long. Even the best decision has a high probability of being wrong. Even the most effective one eventually becomes obsolete.
+
+When General Eisenhower was elected president, his predecessor, Harry S.Truman, said: “Poor Ike; when he was a general, he gave an order and it was carried out. Now he is going to sit in that big office and he’ll give an order and not a damn thing is going to happen.”
+The reason why “not a damn thing is going to happen” is, however, not that generals have more authority than presidents. It is that military organizations learned long ago that futility is the lot of most orders and organized the feedback to check on the execution of the order. They learned long ago that to go oneself
+and look is the only reliable feedback.
+Reports—all a president is normally able to mobilize—are not much help. All military services have long ago learned that the officer who has given an order goes out and sees for himself whether it has been carried out. At the least he sends one of his own aides—he never relies on what he is told by the subordinate to whom the order was given. Not that he distrusts the subordinate; he has learned from experience to distrust communications.
+
+To go and look for oneself is also the best, if not the only, way to test whether the assumptions on which a decision had been made are still valid or whether they are becoming obsolete and need to be thought through again. And one always has to expect the assumptions to become obsolete sooner or later.
+Reality never stands still very long.
