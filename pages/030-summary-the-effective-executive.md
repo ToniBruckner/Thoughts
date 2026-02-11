@@ -868,10 +868,88 @@ Reality never stands still very long.
 
 ## 7 - Effective Decisions
 
-A decision is a judgement. It is a choice between alternatives. It is rarely a choice between right and wrong. It is at its best a choice between "almost right" and "probably wrong"—but much more often a choice between two courses of action neither of which is provably more nearly tight than the other.
+A decision is a judgement. It is a choice between alternatives. It is rarely a choice between right and wrong. It is **at its best a choice between "almost right" and "probably wrong"**—but much **more often a choice between two courses of action neither of which is provably more nearly right than the other**.
 
-Don't start with the facts. Start with the opinions. Those are at the beginning nothing but untested hypotheses and worthless until tested against reality.
-To determine what is a fact requires first a decision on the criteria of relevance, especially on the appropriate measurement. This is the hinge (Scharnier) of the effective decision, and usually it's most controversal aspect.
+Don't start with the facts. **Start with the opinions**. Those are at the beginning nothing but untested hypotheses and worthless until tested against reality.
+To determine what is a fact **requires first a decision on the criteria of relevance, especially on the appropriate measurement**. This is the hinge (Scharnier) of the effective decision, and usually it's most controversal aspect.
 
-Finally, the effective decision does not flow from a consensus on the facts.
-The understanding that underlies the right decision grows out of the clash and conflict of divergent opinions and out of the serious considerations of competing alternatives.
+Finally, the effective decision **does not flow from a consensus on the facts**.
+The understanding that underlies the right decision **grows out of the clash and conflict of divergent opinions and out of the serious considerations of competing alternatives**.
+
+To get the facts first is impossible. There are no facts unless one has a criterion of relevance. Events by themselves are not facts.
+
+e.g. in Physics the taste of a substance is not a fact. Nor, unit fairly recently, was its color. In cooking, the taste is a fact of supreme importance, and in painting, the color matters. Physics, cooking, and painting consider different things as relevant and therefore consider different things to be facts.
+
+The effective executive, therefore starts, asks: 
+
+- "What do we have to know to test the validity of this hypothesis?"
+- "What would the facts have to be to make this opinion tenable?"
+
+And he makes it a habit—in himself and in the people with whom he works—to think through and spell out what need to be looked at, studied, and tested. **He insists that people who voice an opinion also take repsonsibility for defining what factual findings can be expected and should be looked for. --> **What is the criterion of relevance?**
+
+The best way to find the appropriate measurement is again to go out and look for feedback, only this is feedback before the decision.
+
+Finding the appropriate measurement is thus not a mathematical exercise. It is a risk-taking judgment.
+Whenever one has to judge, one must have alternatives among which one can choose. A judgment in which one can only say “yes” or “no” is no judgment at all. Only if there are alternatives can one hope to get insight into what is truly at stake.
+Effective executives therefore insist on alternatives of measurement—so that they can choose the one appropriate one.
+Unless one has considered alternatives, one has a **closed mind**.
+This explains why effectice decision-makers deliberately disregard the second major command of the text-books on decision-making and create dissension and disagreement, rather than consensus.
+
+> Anmerkung (erklärung chatGPT): **Warum Ja/Nein kein echtes Urteil ist.**
+> Ein reines Ja/Nein impliziert: keine Alternativen, Keine Abstufungen, Keine Bedingungen, Kein Vergleich
+> Das ist mechanisch. Judgment dagegen ist differenzierend.
+> Beispiel : Investition
+> Frage:
+> „Sollen wir 5 Mio. in Projekt X investieren? Ja oder Nein?“
+> Das ist kein Urteil, sondern ein Votum.
+> Ein echtes Urteil würde lauten:
+> Unter welchen Marktannahmen lohnt es sich?, Welche Rendite erwarten wir?, Welches Risikoprofil akzeptieren wir, Welche Alternativen konkurrieren um das Kapital?
+> Erst wenn du Alternativen vergleichst und Annahmen explizit machst, entsteht judgment.
+> **Der tiefere Gedanke**
+> Ein binäres Urteil zwingt Menschen oft dazu:
+>
+> - Komplexität zu reduzieren
+> - Ambivalenz zu ignorieren
+> - Risiken nicht zu artikulieren
+> - Es produziert Lagerbildung: Dafür, Dagegen
+>
+> Drucker will stattdessen: Strukturierte Urteilsbildung vor der Entscheidung.
+> ## Entscheidung ≠ Judgment
+>
+> In *The Effective Executive* unterscheidet Peter Drucker implizit zwischen:
+>
+> **Decision** → der formale Akt (Ja oder Nein)
+>
+> **Judgment** → der intellektuelle Prozess davor
+>
+> Am Ende muss fast jede Managemententscheidung binär sein:
+>
+> * Projekt starten oder nicht
+> * Person einstellen oder nicht
+> * Budget freigeben oder nicht
+>
+> Das Problem ist nicht das Ja/Nein am Ende.
+> Das Problem ist ein Ja/Nein **ohne vorherige Strukturierung der Alternativen**.
+>
+> ---
+>
+> ## Was Drucker tatsächlich kritisiert
+>
+> Er kritisiert Situationen wie:
+>
+> > „Sind wir dafür oder dagegen?“
+>
+> Wenn das die erste Frage ist, fehlt:
+>
+> * Welche Alternativen gibt es?
+> * Welche Varianten?
+> * Unter welchen Bedingungen?
+> * Mit welchem Risiko?
+> * Gegen welche Opportunity Costs?
+>
+> Ein echtes Urteil entsteht durch Vergleich.
+> Ein bloßes Ja/Nein unterdrückt Vergleich.
+
+**The first rule in decision-making is that one does not make a decision
+unless there is disagreement.**
+Alfred P. Sloan is reported to have said at a meeting of one of his top committees: “Gentlemen, I take it we are all in complete agreement on the decision here.” Everyone around the table nodded assent. “Then,” continued Mr. Sloan, “I propose we postpone further discussion of this matter until our next meeting to give ourselves time to develop disagreement and perhaps gain some understanding of what the decision is all about.”
