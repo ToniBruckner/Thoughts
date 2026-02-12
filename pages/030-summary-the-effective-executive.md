@@ -953,3 +953,43 @@ This explains why effectice decision-makers deliberately disregard the second ma
 **The first rule in decision-making is that one does not make a decision
 unless there is disagreement.**
 Alfred P. Sloan is reported to have said at a meeting of one of his top committees: “Gentlemen, I take it we are all in complete agreement on the decision here.” Everyone around the table nodded assent. “Then,” continued Mr. Sloan, “I propose we postpone further discussion of this matter until our next meeting to give ourselves time to develop disagreement and perhaps gain some understanding of what the decision is all about.”
+
+Three Main Reasons for the insistence on disagreement:
+
+1. it is the only protection that keeps a decision-maker from becoming controlled by the organization.</br>
+Everybody always wants something from the decision-maker. Everybody is a special pleader, trying—often in perfectly good faith—to obtain the decision he favors. This is true whether the decision-maker is the President of the United States or the most junior engineer working on a design modification. The only way to break out of the prison of special pleading and preconceived notions is to make sure of argued, documented, thought-through disagreements.
+2. Second, disagreement alone can provide alternatives to a decision.
+And a decision without an alternative is a desperate gambler’s throw, no matter how carefully thought through it might be. There is always a high possibility that the decision will prove wrong—either because it was wrong to begin with or because a change in circumstances makes it wrong. If one has thought through alternatives during the decision-making process, one has something to fall back on, something that has already been thought through, that has been studied, that is understood. Without such an alternative, one is likely to flounder dismally when reality proves a decision to be inoperative.
+3. Above all, disagreement is needed to stimulate the imagination. One does not, to be sure, need imagination to find the right solution to a problem. But then this is of value only in mathematics. In all matters of true uncertainty such as the executive deals with—whether his sphere is political, economic, social, or military—one needs “creative” solutions which create a new situation. And this means that one needs imagination—a new and different way of perceiving and understanding.
+
+To get the imagination flowing turn on organized "disciplined disagreement". This protects him against being taken in by the plausible but false or incomplete. It gives him alternatives to choose and make a descision if something goes wrong.
+Don't start out with the assumption that one proposed course of action is right and all the others are wrong or "I am right an he is wrong". **He starts out with the commitment to find out why people disagree.**
+First understand!
+
+The effective decision-maker does not start out with the assumption that one proposed course of action is right and that all others must be wrong. Nor does he start out with the assumption, “I am right and he is wrong.” He starts out with the commitment to find out why people disagree.
+Effective executives know, of course, that there are fools around and that there are mischief-makers. But they do not assume that the man who disagrees with what they themselves see as clear and obvious is, therefore, either a fool or a knave.
+
+The effective executive is concerned first with understanding. Only then does he even think about who is
+right and who is wrong.
+
+There is one final question the effective decision-maker asks: “Is a decision really necessary?” One alternative is always the alternative of doing nothing. Every decision is like surgery. It is an intervention into a system and therefore carries with it the risk of shock. One does not make unnecessary decisions any more than a good surgeon does unnecessary surgery. Individual decision-makers, like individual surgeons, differ in their styles. Some are more radical or more conservative than others. But by and large, they agree on the rules.
+One has to make a decision when a condition is likely to degenerate if nothing is done. This also applies with respect to opportunity. If the opportunity is important and is likely to vanish unless one acts with dispatch, one acts—and one makes a radical change.
+
+If the answer to the question “What will happen if we do nothing?” is “It will take care of itself,” one does not interfere. Nor does one interfere if the condition, while annoying, is of no importance and unlikely to make any difference anyhow.
+
+Here is a shortened, clear English version:
+
+Few executives truly understand this. In a financial crisis, a controller may push for cost reductions and correctly focus on major problem areas like sales and distribution, working hard to fix them.
+
+But he then undermines himself by making a big issue out of dismissing a few older employees in an otherwise efficient plant—even though letting them go would make almost no financial difference. He argues that everyone must make sacrifices.
+
+When it is all over, the organization will forget fast that he saved the business. They will remember, though, his vendetta against the two or three poor devils in the plant—and rightly so. As Roman law already stated: "The magistrate does not concern himself with trifles." („Der Richter kümmert sich nicht um Kleinigkeiten.“)
+
+The decision is now ready to be made. The specifications have been thought through, the alternatives explored, the risks and gains weighed. Everything is known. Indeed, it is always reasonably clear by now what course of action must be taken. At this point the decision does indeed almost “make itself.”
+And it is at this point that most decisions are lost. It becomes suddenly quite obvious that the decision is not going to be pleasant, is not going to be popular, is not going to be easy. It becomes clear that a decision requires courage as much as it requires judgment. There is no inherent reason why medicines should taste
+horrible—but effective ones usually do. Similarly, there is no inherent reason why decisions should be distasteful—but most effective ones are.
+One thing the effective executive will not do at this point. He will not give in to the cry, “Let’s make another study.” This is the coward’s way—and all the coward achieves is to die a thousand deaths where the brave man dies but one. When confronted with the demand for “another study” the effective executive asks: “Is there any reason to believe that additional study will produce anything new? And is there reason to believe that the new is likely to be relevant?” And if the answer is “no”—as it usually is—the effective executive does not permit another study. He does not waste the time of good people to cover up his own indecision. But at the same time he will not rush into a decision unless he is sure he understands it. Like any reasonably experienced adult, he has learned to pay
+attention to what Socrates called his “daemon”: the inner voice, somewhere in the bowels, that whispers, “Take care.” Just because something is difficult, disagreeable, or frightening is no reason for not doing it if it is right. But one holds back—if only for a moment—if one finds oneself uneasy, perturbed, bothered without quite knowing why. “I always stop when things seem out of focus,” is the way one of the best decision-makers of my acquaintance puts it. Nine times out of ten the uneasiness turns out to be over some silly detail.
+But the tenth time one suddenly realizes that one has overlooked the most important fact in the problem, has made an elementary blunder, or has misjudged altogether. The tenth time one suddenly wakes up at night and realizes—as
+Sherlock Holmes did in the famous story—that the “most significant thing is that the hound of Baskerville didn’t bark.” But the effective decision-maker does not wait long—a few days, at the most a few weeks. If the “daemon” has not spoken by then, he acts with speed and energy whether he likes to or not. Executives are not paid for doing things they like to do. They are paid for getting the right things done—most of all in their specific task, the making of effective decisions.
+
