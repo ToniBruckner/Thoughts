@@ -51,4 +51,10 @@ Man nutzt also **Kategorien statt Zahlen**, aber die Logik dahinter bleibt diese
 
 ---
 
+### Wichtigkeit versus Dringlichkeit
+
+**Wichtigkeit** bezieht sich auf die Bedeutung einer Aufgabe für die Erreichung von Zielen, während **Dringlichkeit** sich darauf bezieht, wie schnell eine Aufgabe erledigt werden muss.
+Eine Aufgabe kann also **wichtig, aber nicht dringend** sein (z.B. strategische Planung), oder **dringend, aber nicht wichtig** (z.B. eine E-Mail beantworten).
+Darüber hinaus gibt es Aufgaben, die sowohl wichtig als auch dringend sind (z.B. eine Krise bewältigen), und solche, die weder wichtig noch dringend sind (z.B. Zeitverschwendung).
+
 

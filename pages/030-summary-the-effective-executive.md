@@ -914,7 +914,7 @@ This explains why effectice decision-makers deliberately disregard the second ma
 > - Es produziert Lagerbildung: Dafür, Dagegen
 >
 > Drucker will stattdessen: Strukturierte Urteilsbildung vor der Entscheidung.
-> ## Entscheidung ≠ Judgment
+> ### Entscheidung ≠ Judgment
 >
 > In *The Effective Executive* unterscheidet Peter Drucker implizit zwischen:
 >
@@ -933,7 +933,7 @@ This explains why effectice decision-makers deliberately disregard the second ma
 >
 > ---
 >
-> ## Was Drucker tatsächlich kritisiert
+> ### Was Drucker tatsächlich kritisiert
 >
 > Er kritisiert Situationen wie:
 >
@@ -985,11 +985,32 @@ But he then undermines himself by making a big issue out of dismissing a few old
 
 When it is all over, the organization will forget fast that he saved the business. They will remember, though, his vendetta against the two or three poor devils in the plant—and rightly so. As Roman law already stated: "The magistrate does not concern himself with trifles." („Der Richter kümmert sich nicht um Kleinigkeiten.“)
 
-The decision is now ready to be made. The specifications have been thought through, the alternatives explored, the risks and gains weighed. Everything is known. Indeed, it is always reasonably clear by now what course of action must be taken. At this point the decision does indeed almost “make itself.”
-And it is at this point that most decisions are lost. It becomes suddenly quite obvious that the decision is not going to be pleasant, is not going to be popular, is not going to be easy. It becomes clear that a decision requires courage as much as it requires judgment. There is no inherent reason why medicines should taste
+The decision is now ready to be made. The specifications have been thought through, the alternatives explored, the risks and gains weighed. Everything is known. Indeed, it is always reasonably clear by now what course of action must be taken. **At this point the decision does indeed almost “make itself.”
+And it is at this point that most decisions are lost. It becomes suddenly quite obvious that the decision is not going to be pleasant, is not going to be popular, is not going to be easy.** It becomes clear that a decision requires courage as much as it requires judgment. There is no inherent reason why medicines should taste
 horrible—but effective ones usually do. Similarly, there is no inherent reason why decisions should be distasteful—but most effective ones are.
-One thing the effective executive will not do at this point. He will not give in to the cry, “Let’s make another study.” This is the coward’s way—and all the coward achieves is to die a thousand deaths where the brave man dies but one. When confronted with the demand for “another study” the effective executive asks: “Is there any reason to believe that additional study will produce anything new? And is there reason to believe that the new is likely to be relevant?” And if the answer is “no”—as it usually is—the effective executive does not permit another study. He does not waste the time of good people to cover up his own indecision. But at the same time he will not rush into a decision unless he is sure he understands it. Like any reasonably experienced adult, he has learned to pay
-attention to what Socrates called his “daemon”: the inner voice, somewhere in the bowels, that whispers, “Take care.” Just because something is difficult, disagreeable, or frightening is no reason for not doing it if it is right. But one holds back—if only for a moment—if one finds oneself uneasy, perturbed, bothered without quite knowing why. “I always stop when things seem out of focus,” is the way one of the best decision-makers of my acquaintance puts it. Nine times out of ten the uneasiness turns out to be over some silly detail.
+One thing the effective executive will not do at this point. **He will not give in to the cry**, “Let’s make another study.” This is the coward’s way—and all the coward achieves is to die a thousand deaths where the brave man dies but one. When confronted with the demand for “another study” the effective executive asks: “Is there any reason to believe that additional study will produce anything new? And is there reason to believe that the new is likely to be relevant?” And if the answer is “no”—as it usually is—the effective executive does not permit another study. He does not waste the time of good people to cover up his own indecision. But at the same time he will not rush into a decision unless he is sure he understands it. Like any reasonably experienced adult, **he has learned to pay
+attention to what Socrates called his “daemon”: the inner voice, somewhere in the bowels, that whispers, “Take care.” Just because something is difficult, disagreeable, or frightening is no reason for not doing it if it is right. But one holds back—if only for a moment—if one finds oneself uneasy, perturbed, bothered without quite knowing why. “I always stop when things seem out of focus,” is the way one of the best decision-makers of my acquaintance puts it. Nine times out of ten the uneasiness turns out to be over some silly detail.**
 But the tenth time one suddenly realizes that one has overlooked the most important fact in the problem, has made an elementary blunder, or has misjudged altogether. The tenth time one suddenly wakes up at night and realizes—as
 Sherlock Holmes did in the famous story—that the “most significant thing is that the hound of Baskerville didn’t bark.” But the effective decision-maker does not wait long—a few days, at the most a few weeks. If the “daemon” has not spoken by then, he acts with speed and energy whether he likes to or not. Executives are not paid for doing things they like to do. They are paid for getting the right things done—most of all in their specific task, the making of effective decisions.
+
+Create a summary about the above paragraph with bullet points:
+- Effective decisions often feel unpleasant, unpopular, and difficult.
+- Courage is required to make effective decisions, as they often involve tough choices.
+- The effective executive does not delay decisions with calls for "another study" unless there is a
+  valid reason to believe it will yield new, relevant insights.
+- However, the effective executive also listens to their intuition ("daemon") and may pause if they feel uneasy, as this can indicate overlooked facts or misjudgments.
+- The key is to balance courage with careful consideration, acting decisively once the decision is well understood.
+
+### Descion Making and the Computer
+
+Even in the time of Drucker, they people told that Computers will replace decision-makers. Drucker said that they will not. They will only replace the **mechanical** part of decision-making, not the **judgment** part. Computers can process data and run algorithms, but they cannot understand context, weigh values, or make ethical judgments. The effective executive's role in making decisions is not just about analyzing information but also about interpreting it and applying wisdom, which remains a human domain.
+The human being is not logical; he is perceptual (Deutsch: Wahrnehmend). The human being is slow and sloppy. But he is also bright and has insight. The human being can adapt; that is, he can infer from scanty information or from no information at all what the total picture might be like. He can remember a great many things nobody has programmed. E.g. He does not know about human relations, feelings or ways people create decisions.
+A computer cannot make strategic decsisions, all it can do is to work through what conclusions follow from certain assumptions amde regarding an uncertain futurre, or controversely, what assumptions underlie certain proposed curses of action. All it can do is compute. All a AI can do is to calculate probabilities and give you the most likely outcome. The decision itself, however, is not a mathematical problem. It is a risk-taking judgment. It is a choice between alternatives, none of which is provably more nearly right than the other. The effective executive therefore does not start out with the assumption that one proposed course of action is right and that all others must be wrong. Nor does he start out with the assumption, “I am right and he is wrong.” He starts out with the commitment to find out why people disagree.
+
+The computer will, of course, no more make decisions-makers out of clerks than the slide rule makes a mathematican out of a high school student. But the computer will force us to make an early distinction between the clerk and the potential decision maker. And it will permit the latter — may indeed force him — to learn purposeful, effective decision-making. There is indeed ample reason why the appearance of the computer has sparked interest in decision-making. But the reason is not that the computer will "take oder" the decision. The reason is that with the computer's taking over computation, people all the way down the line will have to learn to be executives and to make decisions. 
+
+## 8. Conclusion: Effectiveness Must be Learned
+
+
+
 
