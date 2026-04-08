@@ -1011,6 +1011,6 @@ The computer will, of course, no more make decisions-makers out of clerks than t
 
 ## 8. Conclusion: Effectiveness Must be Learned
 
-
+Effectivenessis is a self dicipline.
 
 
