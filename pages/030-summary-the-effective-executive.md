@@ -1011,6 +1011,17 @@ The computer will, of course, no more make decisions-makers out of clerks than t
 
 ## 8. Conclusion: Effectiveness Must be Learned
 
-Effectivenessis is a self dicipline.
+Two premises:
+- An Executive's job is to be effective
+- Effectiveness can be learned.
+
+Effectiveness is not a 'subject' but a self discipline. The difference between a subject and a discipline is that a subject can be learned in a classroom, but a discipline has to be practiced. It is not enough to know what effectiveness is; one has to practice it. One has to make it a habit. One has to make it part of one's character. One has to make it part of one's life. One has to make it part of one's work.
+
+Effectiveness reveals itself as cruciial to a man's self-development; to organizational development; and to the fullfillment and viability of modern society.
+
+1. First step towards effectiveness is a procedure: **recording where the time goes**
+   The analysis of the executive's time, the elimination of the unnecessary timewasters, already requires some action. It requires some elementary decisions. It requires some changes in man'sa behavior, his relationships, and his concerns. It raises searching questions regarding the relative imporntance of different uses of time, of different activities, and of their goals. If should affect the level and the quality of a good deal of work done. It concerns it's efficinecy in the utilization of a scarce resource — namely, time.
+2. 
+
 
 
