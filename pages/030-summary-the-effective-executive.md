@@ -1020,8 +1020,14 @@ Effectiveness is not a 'subject' but a self discipline. The difference between a
 Effectiveness reveals itself as cruciial to a man's self-development; to organizational development; and to the fullfillment and viability of modern society.
 
 1. First step towards effectiveness is a procedure: **recording where the time goes**
-   The analysis of the executive's time, the elimination of the unnecessary timewasters, already requires some action. It requires some elementary decisions. It requires some changes in man'sa behavior, his relationships, and his concerns. It raises searching questions regarding the relative imporntance of different uses of time, of different activities, and of their goals. If should affect the level and the quality of a good deal of work done. It concerns it's efficinecy in the utilization of a scarce resource — namely, time.
-2. 
-
+  The analysis of the executive's time, the elimination of the unnecessary timewasters, already requires some action. It requires some elementary decisions. It requires some changes in man'sa behavior, his relationships, and his concerns. It raises searching questions regarding the relative imporntance of different uses of time, of different activities, and of their goals. If should affect the level and the quality of a good deal of work done. It concerns it's efficinecy in the utilization of a scarce resource — namely, time.
+2.Focus the vision on contribution
+  switch from procedural to conceptual, from mechanics to analysis, from efficiencies (Doing things right) to concern with results. What can I contribute to get things rolling. Ask what you can contribute. The answers should lead to high demands on yourself, to think about your own goals and the goals of the organization and to concern with values. This should lead to demands on high standarsds. In other words, has to think through purpose and ends rather than means alone. (über Zweck und Ziele nachdenken und nicht nur über die bloßen Mittel.)
+3. Making strengths productive
+  Build on the strength of the people. (your own and others). Don't try to fix weaknesses. Build on strengths. This is the only way to get superior performance. It is also the only way to get satisfaction and motivation. It is also the only way to get growth and development. It is also the only way to get contribution and results. It is again "learning through doing" and "self-development through practice.
+4. First things first
+  "Know your time" and this are the twin pillars between which executive effectiveness is suspended (aufgehängt) and on which it rests. Here you don't longer deal with time. Here we focus on performance, what can i cause. Before Self-management, Now, effect in the system. We don't look anymore, what happens to us, now we act. We create. It is not anymore about information, it is about inner qualities (Eigenschaften): Weitblick (foresight), Selbstständigkeit (self-reliance), Mut (courage). Consciously, you create results. You develop character, responibilty and clearness.
+5. Effective decision
+  
 
 
