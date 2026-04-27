@@ -1028,6 +1028,50 @@ Effectiveness reveals itself as cruciial to a man's self-development; to organiz
 4. First things first
   "Know your time" and this are the twin pillars between which executive effectiveness is suspended (aufgehängt) and on which it rests. Here you don't longer deal with time. Here we focus on performance, what can i cause. Before Self-management, Now, effect in the system. We don't look anymore, what happens to us, now we act. We create. It is not anymore about information, it is about inner qualities (Eigenschaften): Weitblick (foresight), Selbstständigkeit (self-reliance), Mut (courage). Consciously, you create results. You develop character, responibilty and clearness.
 5. Effective decision
-  
+  There is no longer a broad and clear marked path which the executive has to walk to gain effectiveness. But there are still clear surveyor's benchmarks to give orientation and guidance how to get from one to the next. How to identify a pattern of events as constituting a generic problem to the setting of boundary condition which the decision has to satisfy.
+  Problem richtig einordnen
+
+> → Handelt es sich um ein grundsätzliches (generisches) Problem > oder einen Einzelfall?
+> Nur generische Probleme rechtfertigen allgemeine Lösungen.
+> 
+> 2. Randbedingungen festlegen
+> 
+> → Welche Anforderungen muss die Entscheidung zwingend erfüllen?
+> (Drucker spricht von „boundary conditions“ – Mindestkriterien > für eine gültige Lösung.)
+> 
+> 3. Richtige Lösung vor Kompromiss finden
+> 
+> → Zuerst die sachlich richtige Lösung bestimmen, nicht sofort > einen Kompromiss suchen.
+> Kompromisse kommen erst danach.
+> 
+> 4. Umsetzung sicherstellen
+> 
+> → Die Entscheidung muss in konkretes Handeln übersetzt werden:
+> Wer macht was, wann, mit welchen Mitteln?
+> 
+> 5. Feedback einbauen
+> 
+> → Ergebnisse überprüfen und mit den Erwartungen vergleichen, > um > zu lernen und ggf. nachzusteuern.
+
+There is much more to the self-development of an executive than his training in effectiveness. He has to acquire knowledges and skills. He has to learn a goody new work habits as he proceeds along his career, and he will occasionally have to unlearn some old work habits. But knowledges, skills, and habits, no matter how accomplished, will avail the executive little unless he first develops himself in effectiveness.
+
+The needs of large-scale organization have to be satisfied by common people achieving uncommon performance.
+
+As a result, the organization not only becomes capable of doing better. It becomes capable of doing different things and of aspiring to different goals.
+Developing executive effectiveness challenges directions, oals, and purposes of the organization. It raises the eyes of its people from preoccupation with problems to a vision of opportunity, from concern with weakness to exploitation of strengths. This, in turn, wherever it happens, makes an organization attractive to people of high ability and aspiration, and motivates people to higher performance and higher dedication. Organizations are not more effective
+because they have better people. They have better people because they motivate to self-development through their standards, through their habits, through their climate. And these, in turn, result from systematic, focused, purposeful selftraining of the individuals in becoming effective executives.
+
+Self-development is central to the development of an organizatuon, it is the way towards performance of the organisation.
+An organization working towards effectiveness becomes capable of doing things different, and will aspire to different goals. It challenges blind spots in an organization. It changes the focus from preoccupation (Deutsch: Verhaftung) to a vision of opportunity. This will mak the organization attractive to people of high ability and aspriation. Such organizations are not more effective because they have better people. They have better people because they motivate through their standards, through their habits, through their climate. And these, in turn, result from systematic, focused, purposeful selftraining of the individuals in becoming effective executives.
+Effective organizations are not common. They are even raraer than effective executives. They have to take their opportunities and havee to starve their problems.
+They need to work on making strenghts productive. They need to concentrate and to set priorities instead of trying  to do a little bit of everything.
+
+In a knowledge area there are no superiors or subordinates, there are only older and youger people. Yet organizations require a hierarchy. 
+The effective one works on making organizational performance compatible with personal achievement. And by focusing on contribution, he makes his own values become organization results.
+The knowledge worker needs opportunity, he needs achievement, he needs fullfillment, he needs values. Only by making himself an effective executive can he get those things. Only executive effectiveness can enable this society two harmonize its two needs:
+- the need of organization to obtain from the individual the contribution it needs and
+- the need of the individual to have the organization serve as his tool for the accomplishment of his purposes.
+
+**Effectiveness must be learned.**
 
 
