@@ -4,7 +4,7 @@ layout: default
 
 # Yes or No
 
-“When you say no, you are only saying no to one option. 
+“When you say no, you are only saying no to one option.
 
 When you say yes, you are saying no to every other option.
 

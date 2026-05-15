@@ -4,8 +4,6 @@ layout: default
 
 # Kaizen - Continuous Improvement
 
-tbc
-
 from the book GRIT:
 ```
 Kaizen is Japanese for resisting the plateau of arrested development. Its literal translation is: “continuous improvement.” A while back, the idea got some traction in American business culture when it was touted as the core principle behind Japan’s spectacularly efficient manufacturing economy.
